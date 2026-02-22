@@ -174,7 +174,6 @@ BOOK_ABBR_TO_RU = {
     'Откр': 'Откровение',
 }
 
-
 class BibleEpubExtractor:
     def __init__(self, epub_dir):
         self.epub_dir = epub_dir
@@ -182,7 +181,7 @@ class BibleEpubExtractor:
         self._build_book_mapping()
 
     def _build_book_mapping(self):
-        """Строит маппинг книг на основе toc.ncx"""
+        """Строит маппинг книг на основе toc.ncx, собирая все файлы для каждой книги"""
         toc_path = os.path.join(self.epub_dir, 'OEBPS', 'toc.ncx')
         parser = etree.XMLParser(encoding='utf-8')
         tree = etree.parse(toc_path, parser)
@@ -190,6 +189,8 @@ class BibleEpubExtractor:
 
         ns = {'ncx': 'http://www.daisy.org/z3986/2005/ncx/'}
         nav_points = root.xpath('//ncx:navPoint', namespaces=ns)
+
+        current_book = None
 
         for nav_point in nav_points:
             label = nav_point.xpath('.//ncx:text', namespaces=ns)
@@ -204,37 +205,59 @@ class BibleEpubExtractor:
             src = content[0].get('src')
             file_name = src.split('#')[0]
 
+            # Сохраняем названия книг и привязываем к ним все файлы глав
             if not label_text.startswith('Glava ') and not label_text.startswith('Psalom '):
-                self.book_mapping[label_text] = file_name
+                current_book = label_text
+                if current_book not in self.book_mapping:
+                    self.book_mapping[current_book] = []
+
+            # Добавляем файл к текущей книге, если его там еще нет
+            if current_book and file_name not in self.book_mapping[current_book]:
+                self.book_mapping[current_book].append(file_name)
 
     def extract_chapter(self, book_name, chapter_num):
-        """Извлекает главу из XHTML файла"""
+        """Извлекает главу, находя ее по тексту 'Глава N' или 'Псалом N' и забирая родительский блок"""
         if book_name not in self.book_mapping:
             return None, f"Книга не найдена: {book_name}"
 
-        book_file = self.book_mapping[book_name]
-        xhtml_path = os.path.join(self.epub_dir, 'OEBPS', book_file)
+        book_files = self.book_mapping[book_name]
+        search_text = f"Глава {chapter_num}"
+        search_psalom = f"Псалом {chapter_num}"
 
-        if not os.path.exists(xhtml_path):
-            return None, f"Файл не найден: {xhtml_path}"
+        # Проходимся по всем файлам этой книги
+        for book_file in book_files:
+            xhtml_path = os.path.join(self.epub_dir, 'OEBPS', book_file)
 
-        try:
-            parser = etree.HTMLParser(encoding='utf-8')
-            tree = etree.parse(xhtml_path, parser)
-            root = tree.getroot()
+            if not os.path.exists(xhtml_path):
+                continue
 
-            chapter_id = f'id{chapter_num}'
-            chapter_divs = root.xpath(f'//div[@id="{chapter_id}"]')
+            try:
+                parser = etree.HTMLParser(encoding='utf-8')
+                tree = etree.parse(xhtml_path, parser)
+                root = tree.getroot()
 
-            if chapter_divs:
-                return chapter_divs[0], None
-            else:
-                all_sections = root.xpath('//div[@class="section"]')
-                if all_sections:
-                    return all_sections[0], f"Глава {chapter_num} не найдена, взята первая секция"
-                return None, f"Глава {chapter_num} и секции не найдены в {book_file}"
-        except Exception as e:
-            return None, f"Ошибка при парсинге {xhtml_path}: {e}"
+                # Ищем <p> (или любой другой тег), внутри которого написан текст "Глава 20" или "Псалом 20"
+                nodes = root.xpath(f'//*[contains(text(), "{search_text}") or contains(text(), "{search_psalom}")]')
+                
+                if nodes:
+                    node = nodes[0]
+                    # Нам нужно подняться вверх по дереву и найти главный <div class="section">,
+                    # внутри которого лежит эта глава.
+                    parent_sections = node.xpath('ancestor::div[contains(@class, "section")]')
+                    
+                    if parent_sections:
+                        # Возвращаем найденную секцию с главой
+                        return parent_sections[0], None
+                    
+                    # Если вдруг class="section" нет, берем ближайший родительский div
+                    parent_divs = node.xpath('ancestor::div[1]')
+                    if parent_divs:
+                         return parent_divs[0], None
+
+            except Exception as e:
+                pass # Игнорируем ошибки парсинга конкретного файла
+
+        return None, f"Глава {chapter_num} не найдена в файлах книги ({len(book_files)} шт.)"
 
 
 def parse_days_file(filepath):
@@ -260,73 +283,64 @@ def parse_days_file(filepath):
 
 
 def parse_chapter_reference(ref):
-    """Парсит ссылку на главу"""
+    """Извлекает только название книги и первое число (главу), игнорируя диапазоны и стихи"""
     ref = ref.strip()
-    pattern = r'^([\dА-Яа-я\s]+)\.\s*(\d+)(?::(\d+)-(\d+))?$'
-    match = re.match(pattern, ref)
+    # Ищет книгу (буквы/цифры до точки) и первую группу цифр после неё
+    pattern = r'^([\dА-Яа-я\s]+)\.\s*(\d+)'
+    match = re.search(pattern, ref)
 
     if match:
         book = match.group(1).strip()
-        chapter = int(match.group(2))
-        verse_start = int(match.group(3)) if match.group(3) else None
-        verse_end = int(match.group(4)) if match.group(4) else None
-        return (book, chapter, verse_start, verse_end)
+        chapter_num = int(match.group(2))
+        return (book, chapter_num)
 
     return None
 
 
 def create_full_year_epub(days, extractor, output_file):
-    """Создает один EPUB файл со всеми 365 днями"""
+    """Создает единый EPUB файл со всеми днями"""
     book = epub.EpubBook()
 
     book.set_identifier('bible365-full-year')
-    book.set_title('Библия 365 - Полный годовой план')
+    book.set_title('Библия 365 - Вся Библия за год')
     book.set_language('ru')
     book.add_author('Библия')
-
-    # CSS стили
-    css = '''
-        body { font-family: serif; margin: 1em; }
-        .day-title { text-align: center; font-size: 2em; font-weight: bold; margin: 2em 0 1em 0;
-                     page-break-before: always; border-bottom: 2px solid #333; padding-bottom: 0.5em; }
-        .day-number { color: #666; font-size: 0.7em; }
-        .subtitle { text-align: center; font-size: 1em; color: #666; margin-bottom: 2em; }
-        .book-title { font-size: 1.3em; font-weight: bold; margin-top: 2em; margin-bottom: 0.5em; color: #333; }
-        .chapter-title { font-size: 1.1em; font-weight: bold; margin-top: 1em; margin-bottom: 0.5em; }
-        .verse { margin: 0.5em 0; text-indent: 1.5em; line-height: 1.6; }
-        .verse-num { font-weight: bold; font-style: normal; color: #666; }
-        .toc-day { margin: 0.3em 0; }
-    '''
-
-    nav_css = epub.EpubItem(uid="style_nav", file_name="style/nav.css", media_type="text/css", content=css)
-    book.add_item(nav_css)
 
     chapters = []
     toc = []
 
-    print("Генерация единого EPUB файла...")
+    print("Генерация глав...")
 
     for day_name, day_data in sorted(days.items(), key=lambda x: x[1]['number']):
         day_num = day_data['number']
-        print(f"\nДобавление {day_name}...")
-
+        
         html_parts = []
         html_parts.append('<?xml version="1.0" encoding="UTF-8"?>')
         html_parts.append('<html xmlns="http://www.w3.org/1999/xhtml">')
         html_parts.append('<head>')
         html_parts.append(f'<title>{day_name}</title>')
-        html_parts.append('<link rel="stylesheet" href="../style/nav.css" type="text/css"/>')
+        html_parts.append('<style type="text/css">')
+        html_parts.append('body { font-family: serif; margin: 1em; }')
+        html_parts.append('.day-title { text-align: center; font-size: 1.8em; font-weight: bold; margin: 1em 0; }')
+        html_parts.append('.subtitle { text-align: center; font-size: 1em; color: #666; margin-bottom: 2em; }')
+        html_parts.append('.book-title { font-size: 1.3em; font-weight: bold; margin-top: 2em; margin-bottom: 0.5em; color: #333; }')
+        html_parts.append('.chapter-title { font-size: 1.1em; font-weight: bold; margin-top: 1em; margin-bottom: 0.5em; }')
+        html_parts.append('.verse { margin: 0.5em 0; text-indent: 1.5em; line-height: 1.6; }')
+        html_parts.append('.verse-num { font-weight: bold; font-style: normal; color: #666; }')
+        html_parts.append('</style>')
         html_parts.append('</head>')
         html_parts.append('<body>')
-        html_parts.append(f'<div class="day-title">{day_name} <span class="day-number">(День {day_num})</span></div>')
+        html_parts.append(f'<div class="day-title">{day_name}</div>')
+        html_parts.append('<div class="subtitle">Вся Библия за год</div>')
 
         # Добавляем главы
         for chapter_ref in day_data['chapters']:
             parsed = parse_chapter_reference(chapter_ref)
             if not parsed:
+                print(f"  ! Не удалось распарсить ссылку: {chapter_ref}")
                 continue
 
-            book_abbr, chapter_num, verse_start, verse_end = parsed
+            book_abbr, chapter_num = parsed
 
             if book_abbr not in BOOK_ABBR_TO_FULL:
                 print(f"  ! Сокращение не найдено: {book_abbr}")
@@ -345,10 +359,11 @@ def create_full_year_epub(days, extractor, output_file):
                 print(f"  ! Книга не найдена: {book_search}")
                 continue
 
+            # Извлекаем главу
             chapter_div, error = extractor.extract_chapter(matched_book, chapter_num)
 
             if error:
-                print(f"  ! {error}")
+                print(f"  ! День {day_num}: {error}")
 
             if chapter_div is not None:
                 html_parts.append(f'<div class="book-title">{russian_name}. Глава {chapter_num}</div>')
@@ -394,7 +409,7 @@ def create_full_year_epub(days, extractor, output_file):
 
 def main():
     days_file = 'days'
-    epub_dir = 'epub_extracted'
+    epub_dir = '.'  # Исправлено на текущую директорию!
     output_file = 'Библия_365_Полный_год.epub'
 
     print("Инициализация экстрактора...")
@@ -406,7 +421,6 @@ def main():
     print(f"Найдено дней: {len(days)}")
 
     create_full_year_epub(days, extractor, output_file)
-
 
 if __name__ == '__main__':
     main()

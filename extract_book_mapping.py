@@ -44,5 +44,5 @@ def extract_book_mapping(toc_path):
     return books
 
 if __name__ == '__main__':
-    toc_path = 'epub_extracted/OEBPS/toc.ncx'
+    toc_path = '/home/sasha/science/bibile365/OEBPS/toc.ncx'
     extract_book_mapping(toc_path)

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="bookid" xmlns:dcns="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsins="http://www.w3.org/2001/XMLSchema-instance" xmlns:dctermsns="http://purl.org/dc/terms/">
+<metadata>
+<dcns:title>Bibliya</dcns:title>
+<dcns:creator> Bibliya</dcns:creator>
+<dcns:language>ru</dcns:language>
+<dcns:description>Bíbliya (ot grech. βιβλία — knigi) — sobranie drevnih tekstov, sozdannyh na Blizhnem Vostoke na protyazhenii 15 vekov (XIII v. do n. e. — II v. n. e.), kanonizirovannoe v iudaizme i hristianstve v kachestve Svyash'ennogo Pisaniya. Bibliya sostoit iz dvuh chastej: Vethij Zavet i Novyj Zavet. Pervaya po vremeni sozdaniya chast' Biblii nazyvaetsya u evreev Tanah, u hristian ona poluchila nazvanie Vethij zavet. Eta chast' Biblii predstavlyaet soboj sobranie knig, napisannyh do nashej ery, otobrannyh kak svyash'ennye iz prochej literatury drevneevrejskimi uchyonymi-bogoslovami i pri etom sohranivshihsya do nashih dnej na drevneevrejskom yazyke. Takih knig 39. Eta chast' Biblii yavlyaetsya obshej Svyash'ennoj Knigoj dlya iudaizma i hristianstva. Vtoraya chast' — Novyj zavet, — sobranie iz 27 hristianskih knig (vklyuchayush'ee 4 Evangeliya, poslaniya Apostolov i knigu Otkrovenie), napisannyh v I v. n. e. i doshedshih do nas na drevnegrecheskom yazyke. Eto chast' Biblii naibolee vazhna dlya hristianstva; no iudaizm ne priznayot eyo. Islam, schitaya iskazhyonnymi pozdnejshimi perepischikami kak Vethij Zavet (arabskij Taurat — Tora), tak i Novyj Zavet (arabskij Indzhil' — Evangelie), v printsipe priznayot ih svyatost', i personazhi obeih chastej Biblii (napr. Ibrahim (Avraam), Yusuf (Iosif), Isa (Iisus)) igrayut vazhnuyu rol' v islame, nachinaya s Korana. Slovo "Bibliya" v samih svyash'ennyh knigah ne vstrechaetsya, i vpervye bylo ispol'zovano primenitel'no k sobraniyu svyash'ennyh knig na vostoke v IV veke Ioannom Zlatoustom i Epifaniem Kiprskim. Bibliya polnost'yu ili chastichno perevedena na 2377 yazykov narodov mira, polnost'yu izdana na 422 yazykah. </dcns:description>
+<dcns:date>1458-12-31</dcns:date>
+<meta name="FB2.document-info.program-used" content="FB Writer v1.1, FB Editor v2.0"/>
+<meta name="FB2.document-info.history" content="V 1.0 — sozdanie fb2-dokumenta — ©Jurgen, iyun' 2007 g. "/>
+<meta name="FB2.document-info.id" content="94bf7679-6990-102a-990a-1c76fd93e5c4"/>
+<meta name="FB2.document-info.version" content="1.0"/>
+<meta name="FB2.document-info.date" content="1458-12-31"/>
+<dcns:identifier id="bookid">urn:uuid:94bf7679-6990-102a-990a-1c76fd93e5c4</dcns:identifier>
+<dcns:publisher>Rossijskoe Biblejskoe Obsh'estvo</dcns:publisher>
+<meta name="FB2.publish-info.book-name" content="BIBLIYA PRAVOSLAVNAYA"/>
+<meta name="FB2.publish-info.year" content="2006"/>
+<dcns:identifier id="bookid1">isbn:5-85524-052-5</dcns:identifier>
+</metadata>
+<manifest>
+<item href="ch87.xhtml" media-type="application/xhtml+xml" id="id1"/>
+<item href="images/i_17.png" media-type="image/png" id="id2"/>
+<item href="ch2.xhtml" media-type="application/xhtml+xml" id="id3"/>
+<item href="ch88.xhtml" media-type="application/xhtml+xml" id="id4"/>
+<item href="images/i_13.jpg" media-type="image/jpeg" id="id5"/>
+<item href="fonts/Times-New-Roman-700-94bf7679-6990-102a-990a-1c76fd93e5c4.otf" media-type="application/octet-stream" id="id6"/>
+<item href="ch89.xhtml" media-type="application/xhtml+xml" id="id7"/>
+<item href="ch12.xhtml" media-type="application/xhtml+xml" id="id8"/>
+<item href="ch40.xhtml" media-type="application/xhtml+xml" id="id9"/>
+<item href="images/s_2.png" media-type="image/png" id="id10"/>
+<item href="ch13.xhtml" media-type="application/xhtml+xml" id="id11"/>
+<item href="ch120.xhtml" media-type="application/xhtml+xml" id="id12"/>
+<item href="images/i_02.jpg" media-type="image/jpeg" id="id13"/>
+<item href="ch85.xhtml" media-type="application/xhtml+xml" id="id14"/>
+<item href="cover.xhtml" media-type="application/xhtml+xml" id="id15"/>
+<item href="style.css" media-type="text/css" id="id16"/>
+<item href="ch86.xhtml" media-type="application/xhtml+xml" id="id17"/>
+<item href="images/i_09.jpg" media-type="image/jpeg" id="id18"/>
+<item href="ch58.xhtml" media-type="application/xhtml+xml" id="id19"/>
+<item href="ch59.xhtml" media-type="application/xhtml+xml" id="id20"/>
+<item href="ch10.xhtml" media-type="application/xhtml+xml" id="id21"/>
+<item href="ch139.xhtml" media-type="application/xhtml+xml" id="id22"/>
+<item href="ch11.xhtml" media-type="application/xhtml+xml" id="id23"/>
+<item href="ch82.xhtml" media-type="application/xhtml+xml" id="id24"/>
+<item href="ch83.xhtml" media-type="application/xhtml+xml" id="id25"/>
+<item href="ch56.xhtml" media-type="application/xhtml+xml" id="id26"/>
+<item href="ch84.xhtml" media-type="application/xhtml+xml" id="id27"/>
+<item href="ch29.xhtml" media-type="application/xhtml+xml" id="id28"/>
+<item href="ch57.xhtml" media-type="application/xhtml+xml" id="id29"/>
+<item href="ch136.xhtml" media-type="application/xhtml+xml" id="id30"/>
+<item href="ch137.xhtml" media-type="application/xhtml+xml" id="id31"/>
+<item href="ch80.xhtml" media-type="application/xhtml+xml" id="id32"/>
+<item href="ch138.xhtml" media-type="application/xhtml+xml" id="id33"/>
+<item href="images/i_16.jpg" media-type="image/jpeg" id="id34"/>
+<item href="ch53.xhtml" media-type="application/xhtml+xml" id="id35"/>
+<item href="ch81.xhtml" media-type="application/xhtml+xml" id="id36"/>
+<item href="ch54.xhtml" media-type="application/xhtml+xml" id="id37"/>
+<item href="images/i_05.jpg" media-type="image/jpeg" id="id38"/>
+<item href="ch27.xhtml" media-type="application/xhtml+xml" id="id39"/>
+<item href="ch55.xhtml" media-type="application/xhtml+xml" id="id40"/>
+<item href="ch134.xhtml" media-type="application/xhtml+xml" id="id41"/>
+<item href="ch28.xhtml" media-type="application/xhtml+xml" id="id42"/>
+<item href="ch135.xhtml" media-type="application/xhtml+xml" id="id43"/>
+<item href="ch107.xhtml" media-type="application/xhtml+xml" id="id44"/>
+<item href="ch108.xhtml" media-type="application/xhtml+xml" id="id45"/>
+<item href="ch51.xhtml" media-type="application/xhtml+xml" id="id46"/>
+<item href="ch109.xhtml" media-type="application/xhtml+xml" id="id47"/>
+<item href="ch52.xhtml" media-type="application/xhtml+xml" id="id48"/>
+<item href="ch131.xhtml" media-type="application/xhtml+xml" id="id49"/>
+<item href="ch25.xhtml" media-type="application/xhtml+xml" id="id50"/>
+<item href="ch132.xhtml" media-type="application/xhtml+xml" id="id51"/>
+<item href="ch26.xhtml" media-type="application/xhtml+xml" id="id52"/>
+<item href="ch133.xhtml" media-type="application/xhtml+xml" id="id53"/>
+<item href="ch105.xhtml" media-type="application/xhtml+xml" id="id54"/>
+<item href="ch106.xhtml" media-type="application/xhtml+xml" id="id55"/>
+<item href="ch98.xhtml" media-type="application/xhtml+xml" id="id56"/>
+<item href="ch99.xhtml" media-type="application/xhtml+xml" id="id57"/>
+<item href="ch22.xhtml" media-type="application/xhtml+xml" id="id58"/>
+<item href="ch50.xhtml" media-type="application/xhtml+xml" id="id59"/>
+<item href="images/s_1.png" media-type="image/png" id="id60"/>
+<item href="ch23.xhtml" media-type="application/xhtml+xml" id="id61"/>
+<item href="ch130.xhtml" media-type="application/xhtml+xml" id="id62"/>
+<item href="images/i_01.jpg" media-type="image/jpeg" id="id63"/>
+<item href="ch102.xhtml" media-type="application/xhtml+xml" id="id64"/>
+<item href="ch24.xhtml" media-type="application/xhtml+xml" id="id65"/>
+<item href="ch103.xhtml" media-type="application/xhtml+xml" id="id66"/>
+<item href="ch95.xhtml" media-type="application/xhtml+xml" id="id67"/>
+<item href="toc.ncx" media-type="application/x-dtbncx+xml" id="id68"/>
+<item href="ch104.xhtml" media-type="application/xhtml+xml" id="id69"/>
+<item href="images/i_08.jpg" media-type="image/jpeg" id="id70"/>
+<item href="ch96.xhtml" media-type="application/xhtml+xml" id="id71"/>
+<item href="ch69.xhtml" media-type="application/xhtml+xml" id="id72"/>
+<item href="ch97.xhtml" media-type="application/xhtml+xml" id="id73"/>
+<item href="ch20.xhtml" media-type="application/xhtml+xml" id="id74"/>
+<item href="ch21.xhtml" media-type="application/xhtml+xml" id="id75"/>
+<item href="ch100.xhtml" media-type="application/xhtml+xml" id="id76"/>
+<item href="ch101.xhtml" media-type="application/xhtml+xml" id="id77"/>
+<item href="ch93.xhtml" media-type="application/xhtml+xml" id="id78"/>
+<item href="images/i_12.png" media-type="image/png" id="id79"/>
+<item href="ch66.xhtml" media-type="application/xhtml+xml" id="id80"/>
+<item href="ch94.xhtml" media-type="application/xhtml+xml" id="id81"/>
+<item href="ch67.xhtml" media-type="application/xhtml+xml" id="id82"/>
+<item href="images/cover.jpg" media-type="image/jpeg" id="id83"/>
+<item href="fonts/Times-New-Roman-400-Italic-94bf7679-6990-102a-990a-1c76fd93e5c4.otf" media-type="application/octet-stream" id="id84"/>
+<item href="ch68.xhtml" media-type="application/xhtml+xml" id="id85"/>
+<item href="ch90.xhtml" media-type="application/xhtml+xml" id="id86"/>
+<item href="images/i_15.jpg" media-type="image/jpeg" id="id87"/>
+<item href="ch91.xhtml" media-type="application/xhtml+xml" id="id88"/>
+<item href="ch64.xhtml" media-type="application/xhtml+xml" id="id89"/>
+<item href="ch92.xhtml" media-type="application/xhtml+xml" id="id90"/>
+<item href="images/i_04.jpg" media-type="image/jpeg" id="id91"/>
+<item href="ch37.xhtml" media-type="application/xhtml+xml" id="id92"/>
+<item href="ch65.xhtml" media-type="application/xhtml+xml" id="id93"/>
+<item href="ch38.xhtml" media-type="application/xhtml+xml" id="id94"/>
+<item href="ch39.xhtml" media-type="application/xhtml+xml" id="id95"/>
+<item href="ch118.xhtml" media-type="application/xhtml+xml" id="id96"/>
+<item href="ch119.xhtml" media-type="application/xhtml+xml" id="id97"/>
+<item href="ch62.xhtml" media-type="application/xhtml+xml" id="id98"/>
+<item href="ch35.xhtml" media-type="application/xhtml+xml" id="id99"/>
+<item href="ch63.xhtml" media-type="application/xhtml+xml" id="id100"/>
+<item href="ch36.xhtml" media-type="application/xhtml+xml" id="id101"/>
+<item href="ch115.xhtml" media-type="application/xhtml+xml" id="id102"/>
+<item href="ch116.xhtml" media-type="application/xhtml+xml" id="id103"/>
+<item href="images/i_11.jpg" media-type="image/jpeg" id="id104"/>
+<item href="ch117.xhtml" media-type="application/xhtml+xml" id="id105"/>
+<item href="ch60.xhtml" media-type="application/xhtml+xml" id="id106"/>
+<item href="ch61.xhtml" media-type="application/xhtml+xml" id="id107"/>
+<item href="ch33.xhtml" media-type="application/xhtml+xml" id="id108"/>
+<item href="ch140.xhtml" media-type="application/xhtml+xml" id="id109"/>
+<item href="ch34.xhtml" media-type="application/xhtml+xml" id="id110"/>
+<item href="ch141.xhtml" media-type="application/xhtml+xml" id="id111"/>
+<item href="ch113.xhtml" media-type="application/xhtml+xml" id="id112"/>
+<item href="images/i_07.jpg" media-type="image/jpeg" id="id113"/>
+<item href="ch114.xhtml" media-type="application/xhtml+xml" id="id114"/>
+<item href="ch79.xhtml" media-type="application/xhtml+xml" id="id115"/>
+<item href="ch30.xhtml" media-type="application/xhtml+xml" id="id116"/>
+<item href="ch31.xhtml" media-type="application/xhtml+xml" id="id117"/>
+<item href="ch110.xhtml" media-type="application/xhtml+xml" id="id118"/>
+<item href="ch32.xhtml" media-type="application/xhtml+xml" id="id119"/>
+<item href="ch111.xhtml" media-type="application/xhtml+xml" id="id120"/>
+<item href="ch112.xhtml" media-type="application/xhtml+xml" id="id121"/>
+<item href="fonts/Times-New-Roman-400-94bf7679-6990-102a-990a-1c76fd93e5c4.otf" media-type="application/octet-stream" id="id122"/>
+<item href="ch77.xhtml" media-type="application/xhtml+xml" id="id123"/>
+<item href="ch78.xhtml" media-type="application/xhtml+xml" id="id124"/>
+<item href="images/i_14.jpg" media-type="image/jpeg" id="id125"/>
+<item href="images/s_3.png" media-type="image/png" id="id126"/>
+<item href="ch74.xhtml" media-type="application/xhtml+xml" id="id127"/>
+<item href="images/i_03.jpg" media-type="image/jpeg" id="id128"/>
+<item href="ch75.xhtml" media-type="application/xhtml+xml" id="id129"/>
+<item href="ch48.xhtml" media-type="application/xhtml+xml" id="id130"/>
+<item href="ch76.xhtml" media-type="application/xhtml+xml" id="id131"/>
+<item href="ch49.xhtml" media-type="application/xhtml+xml" id="id132"/>
+<item href="ch128.xhtml" media-type="application/xhtml+xml" id="id133"/>
+<item href="ch129.xhtml" media-type="application/xhtml+xml" id="id134"/>
+<item href="ch8.xhtml" media-type="application/xhtml+xml" id="id135"/>
+<item href="ch72.xhtml" media-type="application/xhtml+xml" id="id136"/>
+<item href="ch9.xhtml" media-type="application/xhtml+xml" id="id137"/>
+<item href="ch45.xhtml" media-type="application/xhtml+xml" id="id138"/>
+<item href="ch73.xhtml" media-type="application/xhtml+xml" id="id139"/>
+<item href="ch46.xhtml" media-type="application/xhtml+xml" id="id140"/>
+<item href="ch47.xhtml" media-type="application/xhtml+xml" id="id141"/>
+<item href="ch19.xhtml" media-type="application/xhtml+xml" id="id142"/>
+<item href="ch126.xhtml" media-type="application/xhtml+xml" id="id143"/>
+<item href="images/i_10.jpg" media-type="image/jpeg" id="id144"/>
+<item href="ch127.xhtml" media-type="application/xhtml+xml" id="id145"/>
+<item href="ch6.xhtml" media-type="application/xhtml+xml" id="id146"/>
+<item href="ch70.xhtml" media-type="application/xhtml+xml" id="id147"/>
+<item href="ch7.xhtml" media-type="application/xhtml+xml" id="id148"/>
+<item href="ch43.xhtml" media-type="application/xhtml+xml" id="id149"/>
+<item href="ch71.xhtml" media-type="application/xhtml+xml" id="id150"/>
+<item href="ch16.xhtml" media-type="application/xhtml+xml" id="id151"/>
+<item href="ch44.xhtml" media-type="application/xhtml+xml" id="id152"/>
+<item href="ch123.xhtml" media-type="application/xhtml+xml" id="id153"/>
+<item href="images/i_06.jpg" media-type="image/jpeg" id="id154"/>
+<item href="ch17.xhtml" media-type="application/xhtml+xml" id="id155"/>
+<item href="ch124.xhtml" media-type="application/xhtml+xml" id="id156"/>
+<item href="ch3.xhtml" media-type="application/xhtml+xml" id="id157"/>
+<item href="ch18.xhtml" media-type="application/xhtml+xml" id="id158"/>
+<item href="ch125.xhtml" media-type="application/xhtml+xml" id="id159"/>
+<item href="ch4.xhtml" media-type="application/xhtml+xml" id="id160"/>
+<item href="ch41.xhtml" media-type="application/xhtml+xml" id="id161"/>
+<item href="ch5.xhtml" media-type="application/xhtml+xml" id="id162"/>
+<item href="ch14.xhtml" media-type="application/xhtml+xml" id="id163"/>
+<item href="ch42.xhtml" media-type="application/xhtml+xml" id="id164"/>
+<item href="ch121.xhtml" media-type="application/xhtml+xml" id="id165"/>
+<item href="ch15.xhtml" media-type="application/xhtml+xml" id="id166"/>
+<item href="ch122.xhtml" media-type="application/xhtml+xml" id="id167"/>
+<item href="ch1.xhtml" media-type="application/xhtml+xml" id="id168"/>
+</manifest>
+<spine toc="id68">
+<itemref idref="id15"/>
+<itemref idref="id168"/>
+<itemref idref="id3"/>
+<itemref idref="id157"/>
+<itemref idref="id160"/>
+<itemref idref="id162"/>
+<itemref idref="id146"/>
+<itemref idref="id148"/>
+<itemref idref="id135"/>
+<itemref idref="id137"/>
+<itemref idref="id21"/>
+<itemref idref="id23"/>
+<itemref idref="id8"/>
+<itemref idref="id11"/>
+<itemref idref="id163"/>
+<itemref idref="id166"/>
+<itemref idref="id151"/>
+<itemref idref="id155"/>
+<itemref idref="id158"/>
+<itemref idref="id142"/>
+<itemref idref="id74"/>
+<itemref idref="id75"/>
+<itemref idref="id58"/>
+<itemref idref="id61"/>
+<itemref idref="id65"/>
+<itemref idref="id50"/>
+<itemref idref="id52"/>
+<itemref idref="id39"/>
+<itemref idref="id42"/>
+<itemref idref="id28"/>
+<itemref idref="id116"/>
+<itemref idref="id117"/>
+<itemref idref="id119"/>
+<itemref idref="id108"/>
+<itemref idref="id110"/>
+<itemref idref="id99"/>
+<itemref idref="id101"/>
+<itemref idref="id92"/>
+<itemref idref="id94"/>
+<itemref idref="id95"/>
+<itemref idref="id9"/>
+<itemref idref="id161"/>
+<itemref idref="id164"/>
+<itemref idref="id149"/>
+<itemref idref="id152"/>
+<itemref idref="id138"/>
+<itemref idref="id140"/>
+<itemref idref="id141"/>
+<itemref idref="id130"/>
+<itemref idref="id132"/>
+<itemref idref="id59"/>
+<itemref idref="id46"/>
+<itemref idref="id48"/>
+<itemref idref="id35"/>
+<itemref idref="id37"/>
+<itemref idref="id40"/>
+<itemref idref="id26"/>
+<itemref idref="id29"/>
+<itemref idref="id19"/>
+<itemref idref="id20"/>
+<itemref idref="id106"/>
+<itemref idref="id107"/>
+<itemref idref="id98"/>
+<itemref idref="id100"/>
+<itemref idref="id89"/>
+<itemref idref="id93"/>
+<itemref idref="id80"/>
+<itemref idref="id82"/>
+<itemref idref="id85"/>
+<itemref idref="id72"/>
+<itemref idref="id147"/>
+<itemref idref="id150"/>
+<itemref idref="id136"/>
+<itemref idref="id139"/>
+<itemref idref="id127"/>
+<itemref idref="id129"/>
+<itemref idref="id131"/>
+<itemref idref="id123"/>
+<itemref idref="id124"/>
+<itemref idref="id115"/>
+<itemref idref="id32"/>
+<itemref idref="id36"/>
+<itemref idref="id24"/>
+<itemref idref="id25"/>
+<itemref idref="id27"/>
+<itemref idref="id14"/>
+<itemref idref="id17"/>
+<itemref idref="id1"/>
+<itemref idref="id4"/>
+<itemref idref="id7"/>
+<itemref idref="id86"/>
+<itemref idref="id88"/>
+<itemref idref="id90"/>
+<itemref idref="id78"/>
+<itemref idref="id81"/>
+<itemref idref="id67"/>
+<itemref idref="id71"/>
+<itemref idref="id73"/>
+<itemref idref="id56"/>
+<itemref idref="id57"/>
+<itemref idref="id76"/>
+<itemref idref="id77"/>
+<itemref idref="id64"/>
+<itemref idref="id66"/>
+<itemref idref="id69"/>
+<itemref idref="id54"/>
+<itemref idref="id55"/>
+<itemref idref="id44"/>
+<itemref idref="id45"/>
+<itemref idref="id47"/>
+<itemref idref="id118"/>
+<itemref idref="id120"/>
+<itemref idref="id121"/>
+<itemref idref="id112"/>
+<itemref idref="id114"/>
+<itemref idref="id102"/>
+<itemref idref="id103"/>
+<itemref idref="id105"/>
+<itemref idref="id96"/>
+<itemref idref="id97"/>
+<itemref idref="id12"/>
+<itemref idref="id165"/>
+<itemref idref="id167"/>
+<itemref idref="id153"/>
+<itemref idref="id156"/>
+<itemref idref="id159"/>
+<itemref idref="id143"/>
+<itemref idref="id145"/>
+<itemref idref="id133"/>
+<itemref idref="id134"/>
+<itemref idref="id62"/>
+<itemref idref="id49"/>
+<itemref idref="id51"/>
+<itemref idref="id53"/>
+<itemref idref="id41"/>
+<itemref idref="id43"/>
+<itemref idref="id30"/>
+<itemref idref="id31"/>
+<itemref idref="id33"/>
+<itemref idref="id22"/>
+<itemref idref="id109"/>
+<itemref idref="id111"/>
+</spine>
+</package>

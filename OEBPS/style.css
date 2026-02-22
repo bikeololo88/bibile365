@@ -1,0 +1,88 @@
+body.cover {
+	margin: 0px;
+	padding: 0px;
+	oeb-column-number: 1;
+}
+svg.cover-svg {
+	height: 100%;
+	width: 100%;
+}
+body {
+	margin-right: 8pt;
+	font-family: 'Times New Roman', serif;
+}
+div.title1 {
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	font-weight: bold;
+	margin: 1em 0px 0.5em 0px;
+	font-size: 1.8em;
+	text-align: center;
+}
+p.title-p {
+	margin: 0px 0px 0.5em 0px;
+}
+div.title2 {
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	font-weight: bold;
+	margin: 1em 0px 0.5em 1.5625em;
+	font-size: 1.5em;
+}
+div.title3 {
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	font-weight: bold;
+	margin: 1em 0px 0.5em 1.923em;
+	font-size: 1.3em;
+}
+div.section {
+}
+div.title4 {
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	font-weight: bold;
+	margin: 1em 0px 0.5em 2.083em;
+	font-size: 1.2em;
+}
+p.p {
+	margin: 0px;
+	text-indent: 1.5em;
+	text-align: justify;
+}
+em {
+}
+img {
+	max-width: 95%;
+}
+div.img {
+	padding: 3px;
+	text-align: center;
+}
+a {
+	vertical-align: super;
+	line-height: 0.1;
+	font-size: 0.7em;
+}
+p.empty-line {
+	height: 1em;
+	margin: 0px;
+}
+@font-face {
+	font-style: italic;
+	font-family: 'Times New Roman';
+	font-weight: normal;
+	src: url(fonts/Times-New-Roman-400-Italic-94bf7679-6990-102a-990a-1c76fd93e5c4.otf);
+}
+@font-face {
+	font-style: normal;
+	font-family: 'Times New Roman';
+	font-weight: normal;
+	src: url(fonts/Times-New-Roman-400-94bf7679-6990-102a-990a-1c76fd93e5c4.otf);
+}
+@font-face {
+	font-style: normal;
+	font-family: 'Times New Roman';
+	font-weight: bold;
+	src: url(fonts/Times-New-Roman-700-94bf7679-6990-102a-990a-1c76fd93e5c4.otf);
+}

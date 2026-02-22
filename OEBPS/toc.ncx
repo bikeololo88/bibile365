@@ -1,0 +1,8670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="ru">
+<head>
+<meta name="dtb:uid" content="urn:uuid:94bf7679-6990-102a-990a-1c76fd93e5c4"/>
+<meta name="dtb:depth" content="4"/>
+<meta name="dtb:totalPageNumber" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>Bibliya</text></docTitle>
+<navMap>
+<navPoint playOrder="1" id="id1">
+<navLabel>
+<text>Pyatiknizhie Moiseya</text>
+</navLabel>
+<content src="ch2.xhtml"/>
+<navPoint playOrder="2" id="id2">
+<navLabel>
+<text>Bytie</text>
+</navLabel>
+<content src="ch3.xhtml"/>
+<navPoint playOrder="3" id="id3">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch3.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="4" id="id4">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch3.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="5" id="id5">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch3.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="6" id="id6">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch3.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="7" id="id7">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch3.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="8" id="id8">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch3.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="9" id="id9">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch3.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="10" id="id10">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch3.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="11" id="id11">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch3.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="12" id="id12">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch3.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="13" id="id13">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch3.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="14" id="id14">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch3.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="15" id="id15">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch3.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="16" id="id16">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch3.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="17" id="id17">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch3.xhtml#id15"/>
+</navPoint>
+<navPoint playOrder="18" id="id18">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch3.xhtml#id16"/>
+</navPoint>
+<navPoint playOrder="19" id="id19">
+<navLabel>
+<text>Glava 17</text>
+</navLabel>
+<content src="ch3.xhtml#id17"/>
+</navPoint>
+<navPoint playOrder="20" id="id20">
+<navLabel>
+<text>Glava 18</text>
+</navLabel>
+<content src="ch4.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="21" id="id21">
+<navLabel>
+<text>Glava 19</text>
+</navLabel>
+<content src="ch4.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="22" id="id22">
+<navLabel>
+<text>Glava 20</text>
+</navLabel>
+<content src="ch4.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="23" id="id23">
+<navLabel>
+<text>Glava 21</text>
+</navLabel>
+<content src="ch4.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="24" id="id24">
+<navLabel>
+<text>Glava 22</text>
+</navLabel>
+<content src="ch4.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="25" id="id25">
+<navLabel>
+<text>Glava 23</text>
+</navLabel>
+<content src="ch4.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="26" id="id26">
+<navLabel>
+<text>Glava 24</text>
+</navLabel>
+<content src="ch4.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="27" id="id27">
+<navLabel>
+<text>Glava 25</text>
+</navLabel>
+<content src="ch4.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="28" id="id28">
+<navLabel>
+<text>Glava 26</text>
+</navLabel>
+<content src="ch4.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="29" id="id29">
+<navLabel>
+<text>Glava 27</text>
+</navLabel>
+<content src="ch4.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="30" id="id30">
+<navLabel>
+<text>Glava 28</text>
+</navLabel>
+<content src="ch4.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="31" id="id31">
+<navLabel>
+<text>Glava 29</text>
+</navLabel>
+<content src="ch4.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="32" id="id32">
+<navLabel>
+<text>Glava 30</text>
+</navLabel>
+<content src="ch5.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="33" id="id33">
+<navLabel>
+<text>Glava 31</text>
+</navLabel>
+<content src="ch5.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="34" id="id34">
+<navLabel>
+<text>Glava 32</text>
+</navLabel>
+<content src="ch5.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="35" id="id35">
+<navLabel>
+<text>Glava 33</text>
+</navLabel>
+<content src="ch5.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="36" id="id36">
+<navLabel>
+<text>Glava 34</text>
+</navLabel>
+<content src="ch5.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="37" id="id37">
+<navLabel>
+<text>Glava 35</text>
+</navLabel>
+<content src="ch5.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="38" id="id38">
+<navLabel>
+<text>Glava 36</text>
+</navLabel>
+<content src="ch5.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="39" id="id39">
+<navLabel>
+<text>Glava 37</text>
+</navLabel>
+<content src="ch5.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="40" id="id40">
+<navLabel>
+<text>Glava 38</text>
+</navLabel>
+<content src="ch5.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="41" id="id41">
+<navLabel>
+<text>Glava 39</text>
+</navLabel>
+<content src="ch5.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="42" id="id42">
+<navLabel>
+<text>Glava 40</text>
+</navLabel>
+<content src="ch5.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="43" id="id43">
+<navLabel>
+<text>Glava 41</text>
+</navLabel>
+<content src="ch6.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="44" id="id44">
+<navLabel>
+<text>Glava 42</text>
+</navLabel>
+<content src="ch6.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="45" id="id45">
+<navLabel>
+<text>Glava 43</text>
+</navLabel>
+<content src="ch6.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="46" id="id46">
+<navLabel>
+<text>Glava 44</text>
+</navLabel>
+<content src="ch6.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="47" id="id47">
+<navLabel>
+<text>Glava 45</text>
+</navLabel>
+<content src="ch6.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="48" id="id48">
+<navLabel>
+<text>Glava 46</text>
+</navLabel>
+<content src="ch6.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="49" id="id49">
+<navLabel>
+<text>Glava 47</text>
+</navLabel>
+<content src="ch6.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="50" id="id50">
+<navLabel>
+<text>Glava 48</text>
+</navLabel>
+<content src="ch6.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="51" id="id51">
+<navLabel>
+<text>Glava 49</text>
+</navLabel>
+<content src="ch6.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="52" id="id52">
+<navLabel>
+<text>Glava 50</text>
+</navLabel>
+<content src="ch6.xhtml#id10"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="53" id="id53">
+<navLabel>
+<text>Ishod</text>
+</navLabel>
+<content src="ch7.xhtml"/>
+<navPoint playOrder="54" id="id54">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch7.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="55" id="id55">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch7.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="56" id="id56">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch7.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="57" id="id57">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch7.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="58" id="id58">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch7.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="59" id="id59">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch7.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="60" id="id60">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch7.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="61" id="id61">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch7.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="62" id="id62">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch7.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="63" id="id63">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch7.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="64" id="id64">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch7.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="65" id="id65">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch7.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="66" id="id66">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch7.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="67" id="id67">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch8.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="68" id="id68">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch8.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="69" id="id69">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch8.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="70" id="id70">
+<navLabel>
+<text>Glava 17</text>
+</navLabel>
+<content src="ch8.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="71" id="id71">
+<navLabel>
+<text>Glava 18</text>
+</navLabel>
+<content src="ch8.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="72" id="id72">
+<navLabel>
+<text>Glava 19</text>
+</navLabel>
+<content src="ch8.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="73" id="id73">
+<navLabel>
+<text>Glava 20</text>
+</navLabel>
+<content src="ch8.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="74" id="id74">
+<navLabel>
+<text>Glava 21</text>
+</navLabel>
+<content src="ch8.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="75" id="id75">
+<navLabel>
+<text>Glava 22</text>
+</navLabel>
+<content src="ch8.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="76" id="id76">
+<navLabel>
+<text>Glava 23</text>
+</navLabel>
+<content src="ch8.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="77" id="id77">
+<navLabel>
+<text>Glava 24</text>
+</navLabel>
+<content src="ch8.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="78" id="id78">
+<navLabel>
+<text>Glava 25</text>
+</navLabel>
+<content src="ch8.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="79" id="id79">
+<navLabel>
+<text>Glava 26</text>
+</navLabel>
+<content src="ch8.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="80" id="id80">
+<navLabel>
+<text>Glava 27</text>
+</navLabel>
+<content src="ch8.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="81" id="id81">
+<navLabel>
+<text>Glava 28</text>
+</navLabel>
+<content src="ch9.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="82" id="id82">
+<navLabel>
+<text>Glava 29</text>
+</navLabel>
+<content src="ch9.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="83" id="id83">
+<navLabel>
+<text>Glava 30</text>
+</navLabel>
+<content src="ch9.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="84" id="id84">
+<navLabel>
+<text>Glava 31</text>
+</navLabel>
+<content src="ch9.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="85" id="id85">
+<navLabel>
+<text>Glava 32</text>
+</navLabel>
+<content src="ch9.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="86" id="id86">
+<navLabel>
+<text>Glava 33</text>
+</navLabel>
+<content src="ch9.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="87" id="id87">
+<navLabel>
+<text>Glava 34</text>
+</navLabel>
+<content src="ch9.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="88" id="id88">
+<navLabel>
+<text>Glava 35</text>
+</navLabel>
+<content src="ch9.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="89" id="id89">
+<navLabel>
+<text>Glava 36</text>
+</navLabel>
+<content src="ch9.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="90" id="id90">
+<navLabel>
+<text>Glava 37</text>
+</navLabel>
+<content src="ch9.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="91" id="id91">
+<navLabel>
+<text>Glava 38</text>
+</navLabel>
+<content src="ch9.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="92" id="id92">
+<navLabel>
+<text>Glava 39</text>
+</navLabel>
+<content src="ch10.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="93" id="id93">
+<navLabel>
+<text>Glava 40</text>
+</navLabel>
+<content src="ch10.xhtml#id2"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="94" id="id94">
+<navLabel>
+<text>Levit</text>
+</navLabel>
+<content src="ch11.xhtml"/>
+<navPoint playOrder="95" id="id95">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch11.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="96" id="id96">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch11.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="97" id="id97">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch11.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="98" id="id98">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch11.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="99" id="id99">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch11.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="100" id="id100">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch11.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="101" id="id101">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch11.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="102" id="id102">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch11.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="103" id="id103">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch11.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="104" id="id104">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch11.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="105" id="id105">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch11.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="106" id="id106">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch11.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="107" id="id107">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch11.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="108" id="id108">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch12.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="109" id="id109">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch12.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="110" id="id110">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch12.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="111" id="id111">
+<navLabel>
+<text>Glava 17</text>
+</navLabel>
+<content src="ch12.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="112" id="id112">
+<navLabel>
+<text>Glava 18</text>
+</navLabel>
+<content src="ch12.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="113" id="id113">
+<navLabel>
+<text>Glava 19</text>
+</navLabel>
+<content src="ch12.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="114" id="id114">
+<navLabel>
+<text>Glava 20</text>
+</navLabel>
+<content src="ch12.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="115" id="id115">
+<navLabel>
+<text>Glava 21</text>
+</navLabel>
+<content src="ch12.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="116" id="id116">
+<navLabel>
+<text>Glava 22</text>
+</navLabel>
+<content src="ch12.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="117" id="id117">
+<navLabel>
+<text>Glava 23</text>
+</navLabel>
+<content src="ch12.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="118" id="id118">
+<navLabel>
+<text>Glava 24</text>
+</navLabel>
+<content src="ch12.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="119" id="id119">
+<navLabel>
+<text>Glava 25</text>
+</navLabel>
+<content src="ch13.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="120" id="id120">
+<navLabel>
+<text>Glava 26</text>
+</navLabel>
+<content src="ch13.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="121" id="id121">
+<navLabel>
+<text>Glava 27</text>
+</navLabel>
+<content src="ch13.xhtml#id3"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="122" id="id122">
+<navLabel>
+<text>Chisla</text>
+</navLabel>
+<content src="ch14.xhtml"/>
+<navPoint playOrder="123" id="id123">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch14.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="124" id="id124">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch14.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="125" id="id125">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch14.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="126" id="id126">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch14.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="127" id="id127">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch14.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="128" id="id128">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch14.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="129" id="id129">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch14.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="130" id="id130">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch14.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="131" id="id131">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch14.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="132" id="id132">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch14.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="133" id="id133">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch15.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="134" id="id134">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch15.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="135" id="id135">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch15.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="136" id="id136">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch15.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="137" id="id137">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch15.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="138" id="id138">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch15.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="139" id="id139">
+<navLabel>
+<text>Glava 17</text>
+</navLabel>
+<content src="ch15.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="140" id="id140">
+<navLabel>
+<text>Glava 18</text>
+</navLabel>
+<content src="ch15.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="141" id="id141">
+<navLabel>
+<text>Glava 19</text>
+</navLabel>
+<content src="ch15.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="142" id="id142">
+<navLabel>
+<text>Glava 20</text>
+</navLabel>
+<content src="ch15.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="143" id="id143">
+<navLabel>
+<text>Glava 21</text>
+</navLabel>
+<content src="ch15.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="144" id="id144">
+<navLabel>
+<text>Glava 22</text>
+</navLabel>
+<content src="ch16.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="145" id="id145">
+<navLabel>
+<text>Glava 23</text>
+</navLabel>
+<content src="ch16.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="146" id="id146">
+<navLabel>
+<text>Glava 24</text>
+</navLabel>
+<content src="ch16.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="147" id="id147">
+<navLabel>
+<text>Glava 25</text>
+</navLabel>
+<content src="ch16.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="148" id="id148">
+<navLabel>
+<text>Glava 26</text>
+</navLabel>
+<content src="ch16.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="149" id="id149">
+<navLabel>
+<text>Glava 27</text>
+</navLabel>
+<content src="ch16.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="150" id="id150">
+<navLabel>
+<text>Glava 28</text>
+</navLabel>
+<content src="ch16.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="151" id="id151">
+<navLabel>
+<text>Glava 29</text>
+</navLabel>
+<content src="ch16.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="152" id="id152">
+<navLabel>
+<text>Glava 30</text>
+</navLabel>
+<content src="ch16.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="153" id="id153">
+<navLabel>
+<text>Glava 31</text>
+</navLabel>
+<content src="ch16.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="154" id="id154">
+<navLabel>
+<text>Glava 32</text>
+</navLabel>
+<content src="ch16.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="155" id="id155">
+<navLabel>
+<text>Glava 33</text>
+</navLabel>
+<content src="ch17.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="156" id="id156">
+<navLabel>
+<text>Glava 34</text>
+</navLabel>
+<content src="ch17.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="157" id="id157">
+<navLabel>
+<text>Glava 35</text>
+</navLabel>
+<content src="ch17.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="158" id="id158">
+<navLabel>
+<text>Glava 36</text>
+</navLabel>
+<content src="ch17.xhtml#id4"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="159" id="id159">
+<navLabel>
+<text>Vtorozakonie</text>
+</navLabel>
+<content src="ch18.xhtml"/>
+<navPoint playOrder="160" id="id160">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch18.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="161" id="id161">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch18.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="162" id="id162">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch18.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="163" id="id163">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch18.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="164" id="id164">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch18.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="165" id="id165">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch18.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="166" id="id166">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch18.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="167" id="id167">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch18.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="168" id="id168">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch18.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="169" id="id169">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch18.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="170" id="id170">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch18.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="171" id="id171">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch19.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="172" id="id172">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch19.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="173" id="id173">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch19.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="174" id="id174">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch19.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="175" id="id175">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch19.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="176" id="id176">
+<navLabel>
+<text>Glava 17</text>
+</navLabel>
+<content src="ch19.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="177" id="id177">
+<navLabel>
+<text>Glava 18</text>
+</navLabel>
+<content src="ch19.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="178" id="id178">
+<navLabel>
+<text>Glava 19</text>
+</navLabel>
+<content src="ch19.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="179" id="id179">
+<navLabel>
+<text>Glava 20</text>
+</navLabel>
+<content src="ch19.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="180" id="id180">
+<navLabel>
+<text>Glava 21</text>
+</navLabel>
+<content src="ch19.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="181" id="id181">
+<navLabel>
+<text>Glava 22</text>
+</navLabel>
+<content src="ch19.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="182" id="id182">
+<navLabel>
+<text>Glava 23</text>
+</navLabel>
+<content src="ch19.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="183" id="id183">
+<navLabel>
+<text>Glava 24</text>
+</navLabel>
+<content src="ch19.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="184" id="id184">
+<navLabel>
+<text>Glava 25</text>
+</navLabel>
+<content src="ch19.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="185" id="id185">
+<navLabel>
+<text>Glava 26</text>
+</navLabel>
+<content src="ch20.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="186" id="id186">
+<navLabel>
+<text>Glava 27</text>
+</navLabel>
+<content src="ch20.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="187" id="id187">
+<navLabel>
+<text>Glava 28</text>
+</navLabel>
+<content src="ch20.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="188" id="id188">
+<navLabel>
+<text>Glava 29</text>
+</navLabel>
+<content src="ch20.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="189" id="id189">
+<navLabel>
+<text>Glava 30</text>
+</navLabel>
+<content src="ch20.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="190" id="id190">
+<navLabel>
+<text>Glava 31</text>
+</navLabel>
+<content src="ch20.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="191" id="id191">
+<navLabel>
+<text>Glava 32</text>
+</navLabel>
+<content src="ch20.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="192" id="id192">
+<navLabel>
+<text>Glava 33</text>
+</navLabel>
+<content src="ch20.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="193" id="id193">
+<navLabel>
+<text>Glava 34</text>
+</navLabel>
+<content src="ch20.xhtml#id9"/>
+</navPoint>
+</navPoint>
+</navPoint>
+<navPoint playOrder="194" id="id194">
+<navLabel>
+<text>Kniga Iisusa Navina</text>
+</navLabel>
+<content src="ch21.xhtml"/>
+<navPoint playOrder="195" id="id195">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch21.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="196" id="id196">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch21.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="197" id="id197">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch21.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="198" id="id198">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch21.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="199" id="id199">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch21.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="200" id="id200">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch21.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="201" id="id201">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch21.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="202" id="id202">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch21.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="203" id="id203">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch21.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="204" id="id204">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch21.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="205" id="id205">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch21.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="206" id="id206">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch21.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="207" id="id207">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch22.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="208" id="id208">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch22.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="209" id="id209">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch22.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="210" id="id210">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch22.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="211" id="id211">
+<navLabel>
+<text>Glava 17</text>
+</navLabel>
+<content src="ch22.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="212" id="id212">
+<navLabel>
+<text>Glava 18</text>
+</navLabel>
+<content src="ch22.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="213" id="id213">
+<navLabel>
+<text>Glava 19</text>
+</navLabel>
+<content src="ch22.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="214" id="id214">
+<navLabel>
+<text>Glava 20</text>
+</navLabel>
+<content src="ch22.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="215" id="id215">
+<navLabel>
+<text>Glava 21</text>
+</navLabel>
+<content src="ch22.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="216" id="id216">
+<navLabel>
+<text>Glava 22</text>
+</navLabel>
+<content src="ch22.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="217" id="id217">
+<navLabel>
+<text>Glava 23</text>
+</navLabel>
+<content src="ch22.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="218" id="id218">
+<navLabel>
+<text>Glava 24</text>
+</navLabel>
+<content src="ch22.xhtml#id12"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="219" id="id219">
+<navLabel>
+<text>Kniga Sudej izrailevyh</text>
+</navLabel>
+<content src="ch23.xhtml"/>
+<navPoint playOrder="220" id="id220">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch23.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="221" id="id221">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch23.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="222" id="id222">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch23.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="223" id="id223">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch23.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="224" id="id224">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch23.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="225" id="id225">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch23.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="226" id="id226">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch23.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="227" id="id227">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch23.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="228" id="id228">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch23.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="229" id="id229">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch23.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="230" id="id230">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch24.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="231" id="id231">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch24.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="232" id="id232">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch24.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="233" id="id233">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch24.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="234" id="id234">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch24.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="235" id="id235">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch24.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="236" id="id236">
+<navLabel>
+<text>Glava 17</text>
+</navLabel>
+<content src="ch24.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="237" id="id237">
+<navLabel>
+<text>Glava 18</text>
+</navLabel>
+<content src="ch24.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="238" id="id238">
+<navLabel>
+<text>Glava 19</text>
+</navLabel>
+<content src="ch24.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="239" id="id239">
+<navLabel>
+<text>Glava 20</text>
+</navLabel>
+<content src="ch24.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="240" id="id240">
+<navLabel>
+<text>Glava 21</text>
+</navLabel>
+<content src="ch24.xhtml#id11"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="241" id="id241">
+<navLabel>
+<text>Kniga Rufi</text>
+</navLabel>
+<content src="ch25.xhtml"/>
+<navPoint playOrder="242" id="id242">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch25.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="243" id="id243">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch25.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="244" id="id244">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch25.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="245" id="id245">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch25.xhtml#id4"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="246" id="id246">
+<navLabel>
+<text>Pervaya kniga Tsarstv</text>
+</navLabel>
+<content src="ch26.xhtml"/>
+<navPoint playOrder="247" id="id247">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch26.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="248" id="id248">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch26.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="249" id="id249">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch26.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="250" id="id250">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch26.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="251" id="id251">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch26.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="252" id="id252">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch26.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="253" id="id253">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch26.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="254" id="id254">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch26.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="255" id="id255">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch26.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="256" id="id256">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch26.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="257" id="id257">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch26.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="258" id="id258">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch26.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="259" id="id259">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch26.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="260" id="id260">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch27.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="261" id="id261">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch27.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="262" id="id262">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch27.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="263" id="id263">
+<navLabel>
+<text>Glava 17</text>
+</navLabel>
+<content src="ch27.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="264" id="id264">
+<navLabel>
+<text>Glava 18</text>
+</navLabel>
+<content src="ch27.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="265" id="id265">
+<navLabel>
+<text>Glava 19</text>
+</navLabel>
+<content src="ch27.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="266" id="id266">
+<navLabel>
+<text>Glava 20</text>
+</navLabel>
+<content src="ch27.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="267" id="id267">
+<navLabel>
+<text>Glava 21</text>
+</navLabel>
+<content src="ch27.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="268" id="id268">
+<navLabel>
+<text>Glava 22</text>
+</navLabel>
+<content src="ch27.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="269" id="id269">
+<navLabel>
+<text>Glava 23</text>
+</navLabel>
+<content src="ch27.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="270" id="id270">
+<navLabel>
+<text>Glava 24</text>
+</navLabel>
+<content src="ch28.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="271" id="id271">
+<navLabel>
+<text>Glava 25</text>
+</navLabel>
+<content src="ch28.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="272" id="id272">
+<navLabel>
+<text>Glava 26</text>
+</navLabel>
+<content src="ch28.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="273" id="id273">
+<navLabel>
+<text>Glava 27</text>
+</navLabel>
+<content src="ch28.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="274" id="id274">
+<navLabel>
+<text>Glava 28</text>
+</navLabel>
+<content src="ch28.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="275" id="id275">
+<navLabel>
+<text>Glava 29</text>
+</navLabel>
+<content src="ch28.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="276" id="id276">
+<navLabel>
+<text>Glava 30</text>
+</navLabel>
+<content src="ch28.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="277" id="id277">
+<navLabel>
+<text>Glava 31</text>
+</navLabel>
+<content src="ch28.xhtml#id8"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="278" id="id278">
+<navLabel>
+<text>Vtoraya kniga Tsarstv</text>
+</navLabel>
+<content src="ch29.xhtml"/>
+<navPoint playOrder="279" id="id279">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch29.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="280" id="id280">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch29.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="281" id="id281">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch29.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="282" id="id282">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch29.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="283" id="id283">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch29.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="284" id="id284">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch29.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="285" id="id285">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch29.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="286" id="id286">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch29.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="287" id="id287">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch29.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="288" id="id288">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch29.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="289" id="id289">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch29.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="290" id="id290">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch29.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="291" id="id291">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch29.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="292" id="id292">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch30.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="293" id="id293">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch30.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="294" id="id294">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch30.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="295" id="id295">
+<navLabel>
+<text>Glava 17</text>
+</navLabel>
+<content src="ch30.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="296" id="id296">
+<navLabel>
+<text>Glava 18</text>
+</navLabel>
+<content src="ch30.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="297" id="id297">
+<navLabel>
+<text>Glava 19</text>
+</navLabel>
+<content src="ch30.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="298" id="id298">
+<navLabel>
+<text>Glava 20</text>
+</navLabel>
+<content src="ch30.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="299" id="id299">
+<navLabel>
+<text>Glava 21</text>
+</navLabel>
+<content src="ch30.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="300" id="id300">
+<navLabel>
+<text>Glava 22</text>
+</navLabel>
+<content src="ch30.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="301" id="id301">
+<navLabel>
+<text>Glava 23</text>
+</navLabel>
+<content src="ch30.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="302" id="id302">
+<navLabel>
+<text>Glava 24</text>
+</navLabel>
+<content src="ch31.xhtml#id1"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="303" id="id303">
+<navLabel>
+<text>Tret'ya kniga Tsarstv</text>
+</navLabel>
+<content src="ch32.xhtml"/>
+<navPoint playOrder="304" id="id304">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch32.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="305" id="id305">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch32.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="306" id="id306">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch32.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="307" id="id307">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch32.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="308" id="id308">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch32.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="309" id="id309">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch32.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="310" id="id310">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch32.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="311" id="id311">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch32.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="312" id="id312">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch33.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="313" id="id313">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch33.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="314" id="id314">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch33.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="315" id="id315">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch33.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="316" id="id316">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch33.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="317" id="id317">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch33.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="318" id="id318">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch33.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="319" id="id319">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch33.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="320" id="id320">
+<navLabel>
+<text>Glava 17</text>
+</navLabel>
+<content src="ch33.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="321" id="id321">
+<navLabel>
+<text>Glava 18</text>
+</navLabel>
+<content src="ch33.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="322" id="id322">
+<navLabel>
+<text>Glava 19</text>
+</navLabel>
+<content src="ch34.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="323" id="id323">
+<navLabel>
+<text>Glava 20</text>
+</navLabel>
+<content src="ch34.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="324" id="id324">
+<navLabel>
+<text>Glava 21</text>
+</navLabel>
+<content src="ch34.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="325" id="id325">
+<navLabel>
+<text>Glava 22</text>
+</navLabel>
+<content src="ch34.xhtml#id4"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="326" id="id326">
+<navLabel>
+<text>Chetvyortaya kniga Tsarstv</text>
+</navLabel>
+<content src="ch35.xhtml"/>
+<navPoint playOrder="327" id="id327">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch35.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="328" id="id328">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch35.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="329" id="id329">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch35.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="330" id="id330">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch35.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="331" id="id331">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch35.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="332" id="id332">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch35.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="333" id="id333">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch35.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="334" id="id334">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch35.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="335" id="id335">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch35.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="336" id="id336">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch35.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="337" id="id337">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch35.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="338" id="id338">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch36.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="339" id="id339">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch36.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="340" id="id340">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch36.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="341" id="id341">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch36.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="342" id="id342">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch36.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="343" id="id343">
+<navLabel>
+<text>Glava 17</text>
+</navLabel>
+<content src="ch36.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="344" id="id344">
+<navLabel>
+<text>Glava 18</text>
+</navLabel>
+<content src="ch36.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="345" id="id345">
+<navLabel>
+<text>Glava 19</text>
+</navLabel>
+<content src="ch36.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="346" id="id346">
+<navLabel>
+<text>Glava 20</text>
+</navLabel>
+<content src="ch36.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="347" id="id347">
+<navLabel>
+<text>Glava 21</text>
+</navLabel>
+<content src="ch36.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="348" id="id348">
+<navLabel>
+<text>Glava 22</text>
+</navLabel>
+<content src="ch36.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="349" id="id349">
+<navLabel>
+<text>Glava 23</text>
+</navLabel>
+<content src="ch37.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="350" id="id350">
+<navLabel>
+<text>Glava 24</text>
+</navLabel>
+<content src="ch37.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="351" id="id351">
+<navLabel>
+<text>Glava 25</text>
+</navLabel>
+<content src="ch37.xhtml#id3"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="352" id="id352">
+<navLabel>
+<text>Pervaya kniga Paralipomenon</text>
+</navLabel>
+<content src="ch38.xhtml"/>
+<navPoint playOrder="353" id="id353">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch38.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="354" id="id354">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch38.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="355" id="id355">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch38.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="356" id="id356">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch38.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="357" id="id357">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch38.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="358" id="id358">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch38.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="359" id="id359">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch38.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="360" id="id360">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch38.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="361" id="id361">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch38.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="362" id="id362">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch38.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="363" id="id363">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch38.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="364" id="id364">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch38.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="365" id="id365">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch38.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="366" id="id366">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch38.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="367" id="id367">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch39.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="368" id="id368">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch39.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="369" id="id369">
+<navLabel>
+<text>Glava 17</text>
+</navLabel>
+<content src="ch39.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="370" id="id370">
+<navLabel>
+<text>Glava 18</text>
+</navLabel>
+<content src="ch39.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="371" id="id371">
+<navLabel>
+<text>Glava 19</text>
+</navLabel>
+<content src="ch39.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="372" id="id372">
+<navLabel>
+<text>Glava 20</text>
+</navLabel>
+<content src="ch39.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="373" id="id373">
+<navLabel>
+<text>Glava 21</text>
+</navLabel>
+<content src="ch39.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="374" id="id374">
+<navLabel>
+<text>Glava 22</text>
+</navLabel>
+<content src="ch39.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="375" id="id375">
+<navLabel>
+<text>Glava 23</text>
+</navLabel>
+<content src="ch39.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="376" id="id376">
+<navLabel>
+<text>Glava 24</text>
+</navLabel>
+<content src="ch39.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="377" id="id377">
+<navLabel>
+<text>Glava 25</text>
+</navLabel>
+<content src="ch39.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="378" id="id378">
+<navLabel>
+<text>Glava 26</text>
+</navLabel>
+<content src="ch39.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="379" id="id379">
+<navLabel>
+<text>Glava 27</text>
+</navLabel>
+<content src="ch39.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="380" id="id380">
+<navLabel>
+<text>Glava 28</text>
+</navLabel>
+<content src="ch39.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="381" id="id381">
+<navLabel>
+<text>Glava 29</text>
+</navLabel>
+<content src="ch40.xhtml#id1"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="382" id="id382">
+<navLabel>
+<text>Vtoraya kniga Paralipomenon</text>
+</navLabel>
+<content src="ch41.xhtml"/>
+<navPoint playOrder="383" id="id383">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch41.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="384" id="id384">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch41.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="385" id="id385">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch41.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="386" id="id386">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch41.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="387" id="id387">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch41.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="388" id="id388">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch41.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="389" id="id389">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch41.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="390" id="id390">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch41.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="391" id="id391">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch41.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="392" id="id392">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch41.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="393" id="id393">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch41.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="394" id="id394">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch41.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="395" id="id395">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch41.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="396" id="id396">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch41.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="397" id="id397">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch41.xhtml#id15"/>
+</navPoint>
+<navPoint playOrder="398" id="id398">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch41.xhtml#id16"/>
+</navPoint>
+<navPoint playOrder="399" id="id399">
+<navLabel>
+<text>Glava 17</text>
+</navLabel>
+<content src="ch42.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="400" id="id400">
+<navLabel>
+<text>Glava 18</text>
+</navLabel>
+<content src="ch42.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="401" id="id401">
+<navLabel>
+<text>Glava 19</text>
+</navLabel>
+<content src="ch42.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="402" id="id402">
+<navLabel>
+<text>Glava 20</text>
+</navLabel>
+<content src="ch42.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="403" id="id403">
+<navLabel>
+<text>Glava 21</text>
+</navLabel>
+<content src="ch42.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="404" id="id404">
+<navLabel>
+<text>Glava 22</text>
+</navLabel>
+<content src="ch42.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="405" id="id405">
+<navLabel>
+<text>Glava 23</text>
+</navLabel>
+<content src="ch42.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="406" id="id406">
+<navLabel>
+<text>Glava 24</text>
+</navLabel>
+<content src="ch42.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="407" id="id407">
+<navLabel>
+<text>Glava 25</text>
+</navLabel>
+<content src="ch42.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="408" id="id408">
+<navLabel>
+<text>Glava 26</text>
+</navLabel>
+<content src="ch42.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="409" id="id409">
+<navLabel>
+<text>Glava 27</text>
+</navLabel>
+<content src="ch42.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="410" id="id410">
+<navLabel>
+<text>Glava 28</text>
+</navLabel>
+<content src="ch42.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="411" id="id411">
+<navLabel>
+<text>Glava 29</text>
+</navLabel>
+<content src="ch42.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="412" id="id412">
+<navLabel>
+<text>Glava 30</text>
+</navLabel>
+<content src="ch43.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="413" id="id413">
+<navLabel>
+<text>Glava 31</text>
+</navLabel>
+<content src="ch43.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="414" id="id414">
+<navLabel>
+<text>Glava 32</text>
+</navLabel>
+<content src="ch43.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="415" id="id415">
+<navLabel>
+<text>Glava 33</text>
+</navLabel>
+<content src="ch43.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="416" id="id416">
+<navLabel>
+<text>Glava 34</text>
+</navLabel>
+<content src="ch43.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="417" id="id417">
+<navLabel>
+<text>Glava 35</text>
+</navLabel>
+<content src="ch43.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="418" id="id418">
+<navLabel>
+<text>Glava 36</text>
+</navLabel>
+<content src="ch43.xhtml#id7"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="419" id="id419">
+<navLabel>
+<text>Pervaya kniga Ezdry</text>
+</navLabel>
+<content src="ch44.xhtml"/>
+<navPoint playOrder="420" id="id420">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch44.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="421" id="id421">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch44.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="422" id="id422">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch44.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="423" id="id423">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch44.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="424" id="id424">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch44.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="425" id="id425">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch44.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="426" id="id426">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch44.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="427" id="id427">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch44.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="428" id="id428">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch44.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="429" id="id429">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch44.xhtml#id10"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="430" id="id430">
+<navLabel>
+<text>Kniga Neemii</text>
+</navLabel>
+<content src="ch45.xhtml"/>
+<navPoint playOrder="431" id="id431">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch45.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="432" id="id432">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch45.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="433" id="id433">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch45.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="434" id="id434">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch45.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="435" id="id435">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch45.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="436" id="id436">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch45.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="437" id="id437">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch45.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="438" id="id438">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch45.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="439" id="id439">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch45.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="440" id="id440">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch45.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="441" id="id441">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch45.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="442" id="id442">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch45.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="443" id="id443">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch46.xhtml#id1"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="444" id="id444">
+<navLabel>
+<text>Vtoraya kniga Ezdry*</text>
+</navLabel>
+<content src="ch47.xhtml"/>
+<navPoint playOrder="445" id="id445">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch47.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="446" id="id446">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch47.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="447" id="id447">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch47.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="448" id="id448">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch47.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="449" id="id449">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch47.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="450" id="id450">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch47.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="451" id="id451">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch47.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="452" id="id452">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch48.xhtml"/>
+</navPoint>
+<navPoint playOrder="453" id="id453">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch49.xhtml#id1"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="454" id="id454">
+<navLabel>
+<text>Kniga Tovita *</text>
+</navLabel>
+<content src="ch50.xhtml"/>
+<navPoint playOrder="455" id="id455">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch50.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="456" id="id456">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch50.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="457" id="id457">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch50.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="458" id="id458">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch50.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="459" id="id459">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch50.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="460" id="id460">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch50.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="461" id="id461">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch50.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="462" id="id462">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch50.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="463" id="id463">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch50.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="464" id="id464">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch50.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="465" id="id465">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch50.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="466" id="id466">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch50.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="467" id="id467">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch50.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="468" id="id468">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch50.xhtml#id14"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="469" id="id469">
+<navLabel>
+<text>Kniga Iudifi *</text>
+</navLabel>
+<content src="ch51.xhtml"/>
+<navPoint playOrder="470" id="id470">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch51.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="471" id="id471">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch51.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="472" id="id472">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch51.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="473" id="id473">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch51.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="474" id="id474">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch51.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="475" id="id475">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch51.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="476" id="id476">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch51.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="477" id="id477">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch51.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="478" id="id478">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch51.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="479" id="id479">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch51.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="480" id="id480">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch51.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="481" id="id481">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch51.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="482" id="id482">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch51.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="483" id="id483">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch51.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="484" id="id484">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch52.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="485" id="id485">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch52.xhtml#id2"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="486" id="id486">
+<navLabel>
+<text>Kniga Esfiri</text>
+</navLabel>
+<content src="ch53.xhtml"/>
+<navPoint playOrder="487" id="id487">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch53.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="488" id="id488">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch53.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="489" id="id489">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch53.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="490" id="id490">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch53.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="491" id="id491">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch53.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="492" id="id492">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch53.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="493" id="id493">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch53.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="494" id="id494">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch53.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="495" id="id495">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch53.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="496" id="id496">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch53.xhtml#id10"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="497" id="id497">
+<navLabel>
+<text>Kniga Iova</text>
+</navLabel>
+<content src="ch54.xhtml"/>
+<navPoint playOrder="498" id="id498">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch54.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="499" id="id499">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch54.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="500" id="id500">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch54.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="501" id="id501">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch54.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="502" id="id502">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch54.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="503" id="id503">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch54.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="504" id="id504">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch54.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="505" id="id505">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch54.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="506" id="id506">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch54.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="507" id="id507">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch54.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="508" id="id508">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch54.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="509" id="id509">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch54.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="510" id="id510">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch54.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="511" id="id511">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch54.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="512" id="id512">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch54.xhtml#id15"/>
+</navPoint>
+<navPoint playOrder="513" id="id513">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch54.xhtml#id16"/>
+</navPoint>
+<navPoint playOrder="514" id="id514">
+<navLabel>
+<text>Glava 17</text>
+</navLabel>
+<content src="ch54.xhtml#id17"/>
+</navPoint>
+<navPoint playOrder="515" id="id515">
+<navLabel>
+<text>Glava 18</text>
+</navLabel>
+<content src="ch54.xhtml#id18"/>
+</navPoint>
+<navPoint playOrder="516" id="id516">
+<navLabel>
+<text>Glava 19</text>
+</navLabel>
+<content src="ch54.xhtml#id19"/>
+</navPoint>
+<navPoint playOrder="517" id="id517">
+<navLabel>
+<text>Glava 20</text>
+</navLabel>
+<content src="ch54.xhtml#id20"/>
+</navPoint>
+<navPoint playOrder="518" id="id518">
+<navLabel>
+<text>Glava 21</text>
+</navLabel>
+<content src="ch54.xhtml#id21"/>
+</navPoint>
+<navPoint playOrder="519" id="id519">
+<navLabel>
+<text>Glava 22</text>
+</navLabel>
+<content src="ch54.xhtml#id22"/>
+</navPoint>
+<navPoint playOrder="520" id="id520">
+<navLabel>
+<text>Glava 23</text>
+</navLabel>
+<content src="ch54.xhtml#id23"/>
+</navPoint>
+<navPoint playOrder="521" id="id521">
+<navLabel>
+<text>Glava 24</text>
+</navLabel>
+<content src="ch54.xhtml#id24"/>
+</navPoint>
+<navPoint playOrder="522" id="id522">
+<navLabel>
+<text>Glava 25</text>
+</navLabel>
+<content src="ch55.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="523" id="id523">
+<navLabel>
+<text>Glava 26</text>
+</navLabel>
+<content src="ch55.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="524" id="id524">
+<navLabel>
+<text>Glava 27</text>
+</navLabel>
+<content src="ch55.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="525" id="id525">
+<navLabel>
+<text>Glava 28</text>
+</navLabel>
+<content src="ch55.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="526" id="id526">
+<navLabel>
+<text>Glava 29</text>
+</navLabel>
+<content src="ch55.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="527" id="id527">
+<navLabel>
+<text>Glava 30</text>
+</navLabel>
+<content src="ch55.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="528" id="id528">
+<navLabel>
+<text>Glava 31</text>
+</navLabel>
+<content src="ch55.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="529" id="id529">
+<navLabel>
+<text>Glava 32</text>
+</navLabel>
+<content src="ch55.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="530" id="id530">
+<navLabel>
+<text>Glava 33</text>
+</navLabel>
+<content src="ch55.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="531" id="id531">
+<navLabel>
+<text>Glava 34</text>
+</navLabel>
+<content src="ch55.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="532" id="id532">
+<navLabel>
+<text>Glava 35</text>
+</navLabel>
+<content src="ch55.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="533" id="id533">
+<navLabel>
+<text>Glava 36</text>
+</navLabel>
+<content src="ch55.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="534" id="id534">
+<navLabel>
+<text>Glava 37</text>
+</navLabel>
+<content src="ch55.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="535" id="id535">
+<navLabel>
+<text>Glava 38</text>
+</navLabel>
+<content src="ch55.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="536" id="id536">
+<navLabel>
+<text>Glava 39</text>
+</navLabel>
+<content src="ch55.xhtml#id15"/>
+</navPoint>
+<navPoint playOrder="537" id="id537">
+<navLabel>
+<text>Glava 40</text>
+</navLabel>
+<content src="ch55.xhtml#id16"/>
+</navPoint>
+<navPoint playOrder="538" id="id538">
+<navLabel>
+<text>Glava 41</text>
+</navLabel>
+<content src="ch55.xhtml#id17"/>
+</navPoint>
+<navPoint playOrder="539" id="id539">
+<navLabel>
+<text>Glava 42</text>
+</navLabel>
+<content src="ch55.xhtml#id18"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="540" id="id540">
+<navLabel>
+<text>Psaltir'</text>
+</navLabel>
+<content src="ch56.xhtml"/>
+<navPoint playOrder="541" id="id541">
+<navLabel>
+<text>Psalom 1</text>
+</navLabel>
+<content src="ch56.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="542" id="id542">
+<navLabel>
+<text>Psalom 2</text>
+</navLabel>
+<content src="ch56.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="543" id="id543">
+<navLabel>
+<text>Psalom 3</text>
+</navLabel>
+<content src="ch56.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="544" id="id544">
+<navLabel>
+<text>Psalom 4</text>
+</navLabel>
+<content src="ch56.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="545" id="id545">
+<navLabel>
+<text>Psalom 5</text>
+</navLabel>
+<content src="ch56.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="546" id="id546">
+<navLabel>
+<text>Psalom 6</text>
+</navLabel>
+<content src="ch56.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="547" id="id547">
+<navLabel>
+<text>Psalom 7</text>
+</navLabel>
+<content src="ch56.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="548" id="id548">
+<navLabel>
+<text>Psalom 8</text>
+</navLabel>
+<content src="ch56.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="549" id="id549">
+<navLabel>
+<text>Psalom 9</text>
+</navLabel>
+<content src="ch56.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="550" id="id550">
+<navLabel>
+<text>Psalom 10</text>
+</navLabel>
+<content src="ch56.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="551" id="id551">
+<navLabel>
+<text>Psalom 11</text>
+</navLabel>
+<content src="ch56.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="552" id="id552">
+<navLabel>
+<text>Psalom 12</text>
+</navLabel>
+<content src="ch56.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="553" id="id553">
+<navLabel>
+<text>Psalom 13</text>
+</navLabel>
+<content src="ch56.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="554" id="id554">
+<navLabel>
+<text>Psalom 14</text>
+</navLabel>
+<content src="ch56.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="555" id="id555">
+<navLabel>
+<text>Psalom 15</text>
+</navLabel>
+<content src="ch56.xhtml#id15"/>
+</navPoint>
+<navPoint playOrder="556" id="id556">
+<navLabel>
+<text>Psalom 16</text>
+</navLabel>
+<content src="ch56.xhtml#id16"/>
+</navPoint>
+<navPoint playOrder="557" id="id557">
+<navLabel>
+<text>Psalom 17</text>
+</navLabel>
+<content src="ch56.xhtml#id17"/>
+</navPoint>
+<navPoint playOrder="558" id="id558">
+<navLabel>
+<text>Psalom 18</text>
+</navLabel>
+<content src="ch56.xhtml#id18"/>
+</navPoint>
+<navPoint playOrder="559" id="id559">
+<navLabel>
+<text>Psalom 19</text>
+</navLabel>
+<content src="ch56.xhtml#id19"/>
+</navPoint>
+<navPoint playOrder="560" id="id560">
+<navLabel>
+<text>Psalom 20</text>
+</navLabel>
+<content src="ch56.xhtml#id20"/>
+</navPoint>
+<navPoint playOrder="561" id="id561">
+<navLabel>
+<text>Psalom 21</text>
+</navLabel>
+<content src="ch56.xhtml#id21"/>
+</navPoint>
+<navPoint playOrder="562" id="id562">
+<navLabel>
+<text>Psalom 22</text>
+</navLabel>
+<content src="ch56.xhtml#id22"/>
+</navPoint>
+<navPoint playOrder="563" id="id563">
+<navLabel>
+<text>Psalom 23</text>
+</navLabel>
+<content src="ch56.xhtml#id23"/>
+</navPoint>
+<navPoint playOrder="564" id="id564">
+<navLabel>
+<text>Psalom 24</text>
+</navLabel>
+<content src="ch56.xhtml#id24"/>
+</navPoint>
+<navPoint playOrder="565" id="id565">
+<navLabel>
+<text>Psalom 25</text>
+</navLabel>
+<content src="ch56.xhtml#id25"/>
+</navPoint>
+<navPoint playOrder="566" id="id566">
+<navLabel>
+<text>Psalom 26</text>
+</navLabel>
+<content src="ch56.xhtml#id26"/>
+</navPoint>
+<navPoint playOrder="567" id="id567">
+<navLabel>
+<text>Psalom 27</text>
+</navLabel>
+<content src="ch56.xhtml#id27"/>
+</navPoint>
+<navPoint playOrder="568" id="id568">
+<navLabel>
+<text>Psalom 28</text>
+</navLabel>
+<content src="ch56.xhtml#id28"/>
+</navPoint>
+<navPoint playOrder="569" id="id569">
+<navLabel>
+<text>Psalom 29</text>
+</navLabel>
+<content src="ch56.xhtml#id29"/>
+</navPoint>
+<navPoint playOrder="570" id="id570">
+<navLabel>
+<text>Psalom 30</text>
+</navLabel>
+<content src="ch56.xhtml#id30"/>
+</navPoint>
+<navPoint playOrder="571" id="id571">
+<navLabel>
+<text>Psalom 31</text>
+</navLabel>
+<content src="ch56.xhtml#id31"/>
+</navPoint>
+<navPoint playOrder="572" id="id572">
+<navLabel>
+<text>Psalom 32</text>
+</navLabel>
+<content src="ch56.xhtml#id32"/>
+</navPoint>
+<navPoint playOrder="573" id="id573">
+<navLabel>
+<text>Psalom 33</text>
+</navLabel>
+<content src="ch56.xhtml#id33"/>
+</navPoint>
+<navPoint playOrder="574" id="id574">
+<navLabel>
+<text>Psalom 34</text>
+</navLabel>
+<content src="ch56.xhtml#id34"/>
+</navPoint>
+<navPoint playOrder="575" id="id575">
+<navLabel>
+<text>Psalom 35</text>
+</navLabel>
+<content src="ch56.xhtml#id35"/>
+</navPoint>
+<navPoint playOrder="576" id="id576">
+<navLabel>
+<text>Psalom 36</text>
+</navLabel>
+<content src="ch57.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="577" id="id577">
+<navLabel>
+<text>Psalom 37</text>
+</navLabel>
+<content src="ch57.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="578" id="id578">
+<navLabel>
+<text>Psalom 38</text>
+</navLabel>
+<content src="ch57.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="579" id="id579">
+<navLabel>
+<text>Psalom 39</text>
+</navLabel>
+<content src="ch57.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="580" id="id580">
+<navLabel>
+<text>Psalom 40</text>
+</navLabel>
+<content src="ch57.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="581" id="id581">
+<navLabel>
+<text>Psalom 41</text>
+</navLabel>
+<content src="ch57.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="582" id="id582">
+<navLabel>
+<text>Psalom 42</text>
+</navLabel>
+<content src="ch57.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="583" id="id583">
+<navLabel>
+<text>Psalom 43</text>
+</navLabel>
+<content src="ch57.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="584" id="id584">
+<navLabel>
+<text>Psalom 44</text>
+</navLabel>
+<content src="ch57.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="585" id="id585">
+<navLabel>
+<text>Psalom 45</text>
+</navLabel>
+<content src="ch57.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="586" id="id586">
+<navLabel>
+<text>Psalom 46</text>
+</navLabel>
+<content src="ch57.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="587" id="id587">
+<navLabel>
+<text>Psalom 47</text>
+</navLabel>
+<content src="ch57.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="588" id="id588">
+<navLabel>
+<text>Psalom 48</text>
+</navLabel>
+<content src="ch57.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="589" id="id589">
+<navLabel>
+<text>Psalom 49</text>
+</navLabel>
+<content src="ch57.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="590" id="id590">
+<navLabel>
+<text>Psalom 50</text>
+</navLabel>
+<content src="ch57.xhtml#id15"/>
+</navPoint>
+<navPoint playOrder="591" id="id591">
+<navLabel>
+<text>Psalom 51</text>
+</navLabel>
+<content src="ch57.xhtml#id16"/>
+</navPoint>
+<navPoint playOrder="592" id="id592">
+<navLabel>
+<text>Psalom 52</text>
+</navLabel>
+<content src="ch57.xhtml#id17"/>
+</navPoint>
+<navPoint playOrder="593" id="id593">
+<navLabel>
+<text>Psalom 53</text>
+</navLabel>
+<content src="ch57.xhtml#id18"/>
+</navPoint>
+<navPoint playOrder="594" id="id594">
+<navLabel>
+<text>Psalom 54</text>
+</navLabel>
+<content src="ch57.xhtml#id19"/>
+</navPoint>
+<navPoint playOrder="595" id="id595">
+<navLabel>
+<text>Psalom 55</text>
+</navLabel>
+<content src="ch57.xhtml#id20"/>
+</navPoint>
+<navPoint playOrder="596" id="id596">
+<navLabel>
+<text>Psalom 56</text>
+</navLabel>
+<content src="ch57.xhtml#id21"/>
+</navPoint>
+<navPoint playOrder="597" id="id597">
+<navLabel>
+<text>Psalom 57</text>
+</navLabel>
+<content src="ch57.xhtml#id22"/>
+</navPoint>
+<navPoint playOrder="598" id="id598">
+<navLabel>
+<text>Psalom 58</text>
+</navLabel>
+<content src="ch57.xhtml#id23"/>
+</navPoint>
+<navPoint playOrder="599" id="id599">
+<navLabel>
+<text>Psalom 59</text>
+</navLabel>
+<content src="ch57.xhtml#id24"/>
+</navPoint>
+<navPoint playOrder="600" id="id600">
+<navLabel>
+<text>Psalom 60</text>
+</navLabel>
+<content src="ch57.xhtml#id25"/>
+</navPoint>
+<navPoint playOrder="601" id="id601">
+<navLabel>
+<text>Psalom 61</text>
+</navLabel>
+<content src="ch57.xhtml#id26"/>
+</navPoint>
+<navPoint playOrder="602" id="id602">
+<navLabel>
+<text>Psalom 62</text>
+</navLabel>
+<content src="ch57.xhtml#id27"/>
+</navPoint>
+<navPoint playOrder="603" id="id603">
+<navLabel>
+<text>Psalom 63</text>
+</navLabel>
+<content src="ch57.xhtml#id28"/>
+</navPoint>
+<navPoint playOrder="604" id="id604">
+<navLabel>
+<text>Psalom 64</text>
+</navLabel>
+<content src="ch57.xhtml#id29"/>
+</navPoint>
+<navPoint playOrder="605" id="id605">
+<navLabel>
+<text>Psalom 65</text>
+</navLabel>
+<content src="ch57.xhtml#id30"/>
+</navPoint>
+<navPoint playOrder="606" id="id606">
+<navLabel>
+<text>Psalom 66</text>
+</navLabel>
+<content src="ch57.xhtml#id31"/>
+</navPoint>
+<navPoint playOrder="607" id="id607">
+<navLabel>
+<text>Psalom 67</text>
+</navLabel>
+<content src="ch57.xhtml#id32"/>
+</navPoint>
+<navPoint playOrder="608" id="id608">
+<navLabel>
+<text>Psalom 68</text>
+</navLabel>
+<content src="ch57.xhtml#id33"/>
+</navPoint>
+<navPoint playOrder="609" id="id609">
+<navLabel>
+<text>Psalom 69</text>
+</navLabel>
+<content src="ch57.xhtml#id34"/>
+</navPoint>
+<navPoint playOrder="610" id="id610">
+<navLabel>
+<text>Psalom 70</text>
+</navLabel>
+<content src="ch58.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="611" id="id611">
+<navLabel>
+<text>Psalom 71</text>
+</navLabel>
+<content src="ch58.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="612" id="id612">
+<navLabel>
+<text>Psalom 72</text>
+</navLabel>
+<content src="ch58.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="613" id="id613">
+<navLabel>
+<text>Psalom 73</text>
+</navLabel>
+<content src="ch58.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="614" id="id614">
+<navLabel>
+<text>Psalom 74</text>
+</navLabel>
+<content src="ch58.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="615" id="id615">
+<navLabel>
+<text>Psalom 75</text>
+</navLabel>
+<content src="ch58.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="616" id="id616">
+<navLabel>
+<text>Psalom 76</text>
+</navLabel>
+<content src="ch58.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="617" id="id617">
+<navLabel>
+<text>Psalom 77</text>
+</navLabel>
+<content src="ch58.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="618" id="id618">
+<navLabel>
+<text>Psalom 78</text>
+</navLabel>
+<content src="ch58.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="619" id="id619">
+<navLabel>
+<text>Psalom 79</text>
+</navLabel>
+<content src="ch58.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="620" id="id620">
+<navLabel>
+<text>Psalom 80</text>
+</navLabel>
+<content src="ch58.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="621" id="id621">
+<navLabel>
+<text>Psalom 81</text>
+</navLabel>
+<content src="ch58.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="622" id="id622">
+<navLabel>
+<text>Psalom 82</text>
+</navLabel>
+<content src="ch58.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="623" id="id623">
+<navLabel>
+<text>Psalom 83</text>
+</navLabel>
+<content src="ch58.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="624" id="id624">
+<navLabel>
+<text>Psalom 84</text>
+</navLabel>
+<content src="ch58.xhtml#id15"/>
+</navPoint>
+<navPoint playOrder="625" id="id625">
+<navLabel>
+<text>Psalom 85</text>
+</navLabel>
+<content src="ch58.xhtml#id16"/>
+</navPoint>
+<navPoint playOrder="626" id="id626">
+<navLabel>
+<text>Psalom 86</text>
+</navLabel>
+<content src="ch58.xhtml#id17"/>
+</navPoint>
+<navPoint playOrder="627" id="id627">
+<navLabel>
+<text>Psalom 87</text>
+</navLabel>
+<content src="ch58.xhtml#id18"/>
+</navPoint>
+<navPoint playOrder="628" id="id628">
+<navLabel>
+<text>Psalom 88</text>
+</navLabel>
+<content src="ch58.xhtml#id19"/>
+</navPoint>
+<navPoint playOrder="629" id="id629">
+<navLabel>
+<text>Psalom 89</text>
+</navLabel>
+<content src="ch58.xhtml#id20"/>
+</navPoint>
+<navPoint playOrder="630" id="id630">
+<navLabel>
+<text>Psalom 90</text>
+</navLabel>
+<content src="ch58.xhtml#id21"/>
+</navPoint>
+<navPoint playOrder="631" id="id631">
+<navLabel>
+<text>Psalom 91</text>
+</navLabel>
+<content src="ch58.xhtml#id22"/>
+</navPoint>
+<navPoint playOrder="632" id="id632">
+<navLabel>
+<text>Psalom 92</text>
+</navLabel>
+<content src="ch58.xhtml#id23"/>
+</navPoint>
+<navPoint playOrder="633" id="id633">
+<navLabel>
+<text>Psalom 93</text>
+</navLabel>
+<content src="ch58.xhtml#id24"/>
+</navPoint>
+<navPoint playOrder="634" id="id634">
+<navLabel>
+<text>Psalom 94</text>
+</navLabel>
+<content src="ch58.xhtml#id25"/>
+</navPoint>
+<navPoint playOrder="635" id="id635">
+<navLabel>
+<text>Psalom 95</text>
+</navLabel>
+<content src="ch58.xhtml#id26"/>
+</navPoint>
+<navPoint playOrder="636" id="id636">
+<navLabel>
+<text>Psalom 96</text>
+</navLabel>
+<content src="ch58.xhtml#id27"/>
+</navPoint>
+<navPoint playOrder="637" id="id637">
+<navLabel>
+<text>Psalom 97</text>
+</navLabel>
+<content src="ch58.xhtml#id28"/>
+</navPoint>
+<navPoint playOrder="638" id="id638">
+<navLabel>
+<text>Psalom 98</text>
+</navLabel>
+<content src="ch58.xhtml#id29"/>
+</navPoint>
+<navPoint playOrder="639" id="id639">
+<navLabel>
+<text>Psalom 99</text>
+</navLabel>
+<content src="ch58.xhtml#id30"/>
+</navPoint>
+<navPoint playOrder="640" id="id640">
+<navLabel>
+<text>Psalom 100</text>
+</navLabel>
+<content src="ch58.xhtml#id31"/>
+</navPoint>
+<navPoint playOrder="641" id="id641">
+<navLabel>
+<text>Psalom 101</text>
+</navLabel>
+<content src="ch58.xhtml#id32"/>
+</navPoint>
+<navPoint playOrder="642" id="id642">
+<navLabel>
+<text>Psalom 102</text>
+</navLabel>
+<content src="ch58.xhtml#id33"/>
+</navPoint>
+<navPoint playOrder="643" id="id643">
+<navLabel>
+<text>Psalom 103</text>
+</navLabel>
+<content src="ch59.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="644" id="id644">
+<navLabel>
+<text>Psalom 104</text>
+</navLabel>
+<content src="ch59.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="645" id="id645">
+<navLabel>
+<text>Psalom 105</text>
+</navLabel>
+<content src="ch59.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="646" id="id646">
+<navLabel>
+<text>Psalom 106</text>
+</navLabel>
+<content src="ch59.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="647" id="id647">
+<navLabel>
+<text>Psalom 107</text>
+</navLabel>
+<content src="ch59.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="648" id="id648">
+<navLabel>
+<text>Psalom 108</text>
+</navLabel>
+<content src="ch59.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="649" id="id649">
+<navLabel>
+<text>Psalom 109</text>
+</navLabel>
+<content src="ch59.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="650" id="id650">
+<navLabel>
+<text>Psalom 110</text>
+</navLabel>
+<content src="ch59.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="651" id="id651">
+<navLabel>
+<text>Psalom 111</text>
+</navLabel>
+<content src="ch59.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="652" id="id652">
+<navLabel>
+<text>Psalom 112</text>
+</navLabel>
+<content src="ch59.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="653" id="id653">
+<navLabel>
+<text>Psalom 113</text>
+</navLabel>
+<content src="ch59.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="654" id="id654">
+<navLabel>
+<text>Psalom 114</text>
+</navLabel>
+<content src="ch59.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="655" id="id655">
+<navLabel>
+<text>Psalom 115</text>
+</navLabel>
+<content src="ch59.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="656" id="id656">
+<navLabel>
+<text>Psalom 116</text>
+</navLabel>
+<content src="ch59.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="657" id="id657">
+<navLabel>
+<text>Psalom 117</text>
+</navLabel>
+<content src="ch59.xhtml#id15"/>
+</navPoint>
+<navPoint playOrder="658" id="id658">
+<navLabel>
+<text>Psalom 118</text>
+</navLabel>
+<content src="ch60.xhtml"/>
+</navPoint>
+<navPoint playOrder="659" id="id659">
+<navLabel>
+<text>Psalom 119</text>
+</navLabel>
+<content src="ch61.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="660" id="id660">
+<navLabel>
+<text>Psalom 120</text>
+</navLabel>
+<content src="ch61.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="661" id="id661">
+<navLabel>
+<text>Psalom 121</text>
+</navLabel>
+<content src="ch61.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="662" id="id662">
+<navLabel>
+<text>Psalom 122</text>
+</navLabel>
+<content src="ch61.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="663" id="id663">
+<navLabel>
+<text>Psalom 123</text>
+</navLabel>
+<content src="ch61.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="664" id="id664">
+<navLabel>
+<text>Psalom 124</text>
+</navLabel>
+<content src="ch61.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="665" id="id665">
+<navLabel>
+<text>Psalom 125</text>
+</navLabel>
+<content src="ch61.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="666" id="id666">
+<navLabel>
+<text>Psalom 126</text>
+</navLabel>
+<content src="ch61.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="667" id="id667">
+<navLabel>
+<text>Psalom 127</text>
+</navLabel>
+<content src="ch61.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="668" id="id668">
+<navLabel>
+<text>Psalom 128</text>
+</navLabel>
+<content src="ch61.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="669" id="id669">
+<navLabel>
+<text>Psalom 129</text>
+</navLabel>
+<content src="ch61.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="670" id="id670">
+<navLabel>
+<text>Psalom 130</text>
+</navLabel>
+<content src="ch61.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="671" id="id671">
+<navLabel>
+<text>Psalom 131</text>
+</navLabel>
+<content src="ch61.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="672" id="id672">
+<navLabel>
+<text>Psalom 132</text>
+</navLabel>
+<content src="ch61.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="673" id="id673">
+<navLabel>
+<text>Psalom 133</text>
+</navLabel>
+<content src="ch61.xhtml#id15"/>
+</navPoint>
+<navPoint playOrder="674" id="id674">
+<navLabel>
+<text>Psalom 134</text>
+</navLabel>
+<content src="ch61.xhtml#id16"/>
+</navPoint>
+<navPoint playOrder="675" id="id675">
+<navLabel>
+<text>Psalom 135</text>
+</navLabel>
+<content src="ch61.xhtml#id17"/>
+</navPoint>
+<navPoint playOrder="676" id="id676">
+<navLabel>
+<text>Psalom 136</text>
+</navLabel>
+<content src="ch61.xhtml#id18"/>
+</navPoint>
+<navPoint playOrder="677" id="id677">
+<navLabel>
+<text>Psalom 137</text>
+</navLabel>
+<content src="ch61.xhtml#id19"/>
+</navPoint>
+<navPoint playOrder="678" id="id678">
+<navLabel>
+<text>Psalom 138</text>
+</navLabel>
+<content src="ch61.xhtml#id20"/>
+</navPoint>
+<navPoint playOrder="679" id="id679">
+<navLabel>
+<text>Psalom 139</text>
+</navLabel>
+<content src="ch61.xhtml#id21"/>
+</navPoint>
+<navPoint playOrder="680" id="id680">
+<navLabel>
+<text>Psalom 140</text>
+</navLabel>
+<content src="ch61.xhtml#id22"/>
+</navPoint>
+<navPoint playOrder="681" id="id681">
+<navLabel>
+<text>Psalom 141</text>
+</navLabel>
+<content src="ch61.xhtml#id23"/>
+</navPoint>
+<navPoint playOrder="682" id="id682">
+<navLabel>
+<text>Psalom 142</text>
+</navLabel>
+<content src="ch61.xhtml#id24"/>
+</navPoint>
+<navPoint playOrder="683" id="id683">
+<navLabel>
+<text>Psalom 143</text>
+</navLabel>
+<content src="ch61.xhtml#id25"/>
+</navPoint>
+<navPoint playOrder="684" id="id684">
+<navLabel>
+<text>Psalom 144</text>
+</navLabel>
+<content src="ch61.xhtml#id26"/>
+</navPoint>
+<navPoint playOrder="685" id="id685">
+<navLabel>
+<text>Psalom 145</text>
+</navLabel>
+<content src="ch61.xhtml#id27"/>
+</navPoint>
+<navPoint playOrder="686" id="id686">
+<navLabel>
+<text>Psalom 146</text>
+</navLabel>
+<content src="ch61.xhtml#id28"/>
+</navPoint>
+<navPoint playOrder="687" id="id687">
+<navLabel>
+<text>Psalom 147</text>
+</navLabel>
+<content src="ch61.xhtml#id29"/>
+</navPoint>
+<navPoint playOrder="688" id="id688">
+<navLabel>
+<text>Psalom 148</text>
+</navLabel>
+<content src="ch61.xhtml#id30"/>
+</navPoint>
+<navPoint playOrder="689" id="id689">
+<navLabel>
+<text>Psalom 149</text>
+</navLabel>
+<content src="ch61.xhtml#id31"/>
+</navPoint>
+<navPoint playOrder="690" id="id690">
+<navLabel>
+<text>Psalom 150</text>
+</navLabel>
+<content src="ch61.xhtml#id32"/>
+</navPoint>
+<navPoint playOrder="691" id="id691">
+<navLabel>
+<text>Psalom 151</text>
+</navLabel>
+<content src="ch61.xhtml#id33"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="692" id="id692">
+<navLabel>
+<text>Pritchi Solomona</text>
+</navLabel>
+<content src="ch62.xhtml"/>
+<navPoint playOrder="693" id="id693">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch62.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="694" id="id694">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch62.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="695" id="id695">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch62.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="696" id="id696">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch62.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="697" id="id697">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch62.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="698" id="id698">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch62.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="699" id="id699">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch62.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="700" id="id700">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch62.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="701" id="id701">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch62.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="702" id="id702">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch62.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="703" id="id703">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch62.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="704" id="id704">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch62.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="705" id="id705">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch62.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="706" id="id706">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch62.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="707" id="id707">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch62.xhtml#id15"/>
+</navPoint>
+<navPoint playOrder="708" id="id708">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch62.xhtml#id16"/>
+</navPoint>
+<navPoint playOrder="709" id="id709">
+<navLabel>
+<text>Glava 17</text>
+</navLabel>
+<content src="ch62.xhtml#id17"/>
+</navPoint>
+<navPoint playOrder="710" id="id710">
+<navLabel>
+<text>Glava 18</text>
+</navLabel>
+<content src="ch62.xhtml#id18"/>
+</navPoint>
+<navPoint playOrder="711" id="id711">
+<navLabel>
+<text>Glava 19</text>
+</navLabel>
+<content src="ch62.xhtml#id19"/>
+</navPoint>
+<navPoint playOrder="712" id="id712">
+<navLabel>
+<text>Glava 20</text>
+</navLabel>
+<content src="ch62.xhtml#id20"/>
+</navPoint>
+<navPoint playOrder="713" id="id713">
+<navLabel>
+<text>Glava 21</text>
+</navLabel>
+<content src="ch63.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="714" id="id714">
+<navLabel>
+<text>Glava 22</text>
+</navLabel>
+<content src="ch63.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="715" id="id715">
+<navLabel>
+<text>Glava 23</text>
+</navLabel>
+<content src="ch63.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="716" id="id716">
+<navLabel>
+<text>Glava 24</text>
+</navLabel>
+<content src="ch63.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="717" id="id717">
+<navLabel>
+<text>Glava 25</text>
+</navLabel>
+<content src="ch63.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="718" id="id718">
+<navLabel>
+<text>Glava 26</text>
+</navLabel>
+<content src="ch63.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="719" id="id719">
+<navLabel>
+<text>Glava 27</text>
+</navLabel>
+<content src="ch63.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="720" id="id720">
+<navLabel>
+<text>Glava 28</text>
+</navLabel>
+<content src="ch63.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="721" id="id721">
+<navLabel>
+<text>Glava 29</text>
+</navLabel>
+<content src="ch63.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="722" id="id722">
+<navLabel>
+<text>Glava 30</text>
+</navLabel>
+<content src="ch63.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="723" id="id723">
+<navLabel>
+<text>Glava 31</text>
+</navLabel>
+<content src="ch63.xhtml#id11"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="724" id="id724">
+<navLabel>
+<text>Kniga Ekkleziasta, ili Propovednika</text>
+</navLabel>
+<content src="ch64.xhtml"/>
+<navPoint playOrder="725" id="id725">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch64.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="726" id="id726">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch64.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="727" id="id727">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch64.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="728" id="id728">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch64.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="729" id="id729">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch64.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="730" id="id730">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch64.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="731" id="id731">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch64.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="732" id="id732">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch64.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="733" id="id733">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch64.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="734" id="id734">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch64.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="735" id="id735">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch64.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="736" id="id736">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch64.xhtml#id12"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="737" id="id737">
+<navLabel>
+<text>Pesn' pesnej Solomona</text>
+</navLabel>
+<content src="ch65.xhtml"/>
+<navPoint playOrder="738" id="id738">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch65.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="739" id="id739">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch65.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="740" id="id740">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch65.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="741" id="id741">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch65.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="742" id="id742">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch65.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="743" id="id743">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch65.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="744" id="id744">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch65.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="745" id="id745">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch65.xhtml#id8"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="746" id="id746">
+<navLabel>
+<text>Kniga premudrosti Solomona *</text>
+</navLabel>
+<content src="ch66.xhtml"/>
+<navPoint playOrder="747" id="id747">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch66.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="748" id="id748">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch66.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="749" id="id749">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch66.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="750" id="id750">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch66.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="751" id="id751">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch66.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="752" id="id752">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch66.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="753" id="id753">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch66.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="754" id="id754">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch66.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="755" id="id755">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch66.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="756" id="id756">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch66.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="757" id="id757">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch66.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="758" id="id758">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch66.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="759" id="id759">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch66.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="760" id="id760">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch66.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="761" id="id761">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch66.xhtml#id15"/>
+</navPoint>
+<navPoint playOrder="762" id="id762">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch66.xhtml#id16"/>
+</navPoint>
+<navPoint playOrder="763" id="id763">
+<navLabel>
+<text>Glava 17</text>
+</navLabel>
+<content src="ch66.xhtml#id17"/>
+</navPoint>
+<navPoint playOrder="764" id="id764">
+<navLabel>
+<text>Glava 18</text>
+</navLabel>
+<content src="ch66.xhtml#id18"/>
+</navPoint>
+<navPoint playOrder="765" id="id765">
+<navLabel>
+<text>Glava 19</text>
+</navLabel>
+<content src="ch67.xhtml#id1"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="766" id="id766">
+<navLabel>
+<text>Kniga premudrosti Iisusa, syna Sirahova *</text>
+</navLabel>
+<content src="ch68.xhtml"/>
+<navPoint playOrder="767" id="id767">
+<navLabel>
+<text>Predislovie</text>
+</navLabel>
+<content src="ch68.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="768" id="id768">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch68.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="769" id="id769">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch68.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="770" id="id770">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch68.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="771" id="id771">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch68.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="772" id="id772">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch68.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="773" id="id773">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch68.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="774" id="id774">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch68.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="775" id="id775">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch68.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="776" id="id776">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch68.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="777" id="id777">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch68.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="778" id="id778">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch68.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="779" id="id779">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch68.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="780" id="id780">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch68.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="781" id="id781">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch68.xhtml#id15"/>
+</navPoint>
+<navPoint playOrder="782" id="id782">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch68.xhtml#id16"/>
+</navPoint>
+<navPoint playOrder="783" id="id783">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch68.xhtml#id17"/>
+</navPoint>
+<navPoint playOrder="784" id="id784">
+<navLabel>
+<text>Glava 17</text>
+</navLabel>
+<content src="ch68.xhtml#id18"/>
+</navPoint>
+<navPoint playOrder="785" id="id785">
+<navLabel>
+<text>Glava 18</text>
+</navLabel>
+<content src="ch68.xhtml#id19"/>
+</navPoint>
+<navPoint playOrder="786" id="id786">
+<navLabel>
+<text>Glava 19</text>
+</navLabel>
+<content src="ch68.xhtml#id20"/>
+</navPoint>
+<navPoint playOrder="787" id="id787">
+<navLabel>
+<text>Glava 20</text>
+</navLabel>
+<content src="ch69.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="788" id="id788">
+<navLabel>
+<text>Glava 21</text>
+</navLabel>
+<content src="ch69.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="789" id="id789">
+<navLabel>
+<text>Glava 22</text>
+</navLabel>
+<content src="ch69.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="790" id="id790">
+<navLabel>
+<text>Glava 23</text>
+</navLabel>
+<content src="ch69.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="791" id="id791">
+<navLabel>
+<text>Glava 24</text>
+</navLabel>
+<content src="ch69.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="792" id="id792">
+<navLabel>
+<text>Glava 25</text>
+</navLabel>
+<content src="ch69.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="793" id="id793">
+<navLabel>
+<text>Glava 26</text>
+</navLabel>
+<content src="ch69.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="794" id="id794">
+<navLabel>
+<text>Glava 27</text>
+</navLabel>
+<content src="ch69.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="795" id="id795">
+<navLabel>
+<text>Glava 28</text>
+</navLabel>
+<content src="ch69.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="796" id="id796">
+<navLabel>
+<text>Glava 29</text>
+</navLabel>
+<content src="ch69.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="797" id="id797">
+<navLabel>
+<text>Glava 30</text>
+</navLabel>
+<content src="ch69.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="798" id="id798">
+<navLabel>
+<text>Glava 31</text>
+</navLabel>
+<content src="ch69.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="799" id="id799">
+<navLabel>
+<text>Glava 32</text>
+</navLabel>
+<content src="ch69.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="800" id="id800">
+<navLabel>
+<text>Glava 33</text>
+</navLabel>
+<content src="ch69.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="801" id="id801">
+<navLabel>
+<text>Glava 34</text>
+</navLabel>
+<content src="ch69.xhtml#id15"/>
+</navPoint>
+<navPoint playOrder="802" id="id802">
+<navLabel>
+<text>Glava 35</text>
+</navLabel>
+<content src="ch69.xhtml#id16"/>
+</navPoint>
+<navPoint playOrder="803" id="id803">
+<navLabel>
+<text>Glava 36</text>
+</navLabel>
+<content src="ch69.xhtml#id17"/>
+</navPoint>
+<navPoint playOrder="804" id="id804">
+<navLabel>
+<text>Glava 37</text>
+</navLabel>
+<content src="ch69.xhtml#id18"/>
+</navPoint>
+<navPoint playOrder="805" id="id805">
+<navLabel>
+<text>Glava 38</text>
+</navLabel>
+<content src="ch70.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="806" id="id806">
+<navLabel>
+<text>Glava 39</text>
+</navLabel>
+<content src="ch70.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="807" id="id807">
+<navLabel>
+<text>Glava 40</text>
+</navLabel>
+<content src="ch70.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="808" id="id808">
+<navLabel>
+<text>Glava 41</text>
+</navLabel>
+<content src="ch70.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="809" id="id809">
+<navLabel>
+<text>Glava 42</text>
+</navLabel>
+<content src="ch70.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="810" id="id810">
+<navLabel>
+<text>Glava 43</text>
+</navLabel>
+<content src="ch70.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="811" id="id811">
+<navLabel>
+<text>Glava 44</text>
+</navLabel>
+<content src="ch70.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="812" id="id812">
+<navLabel>
+<text>Glava 45</text>
+</navLabel>
+<content src="ch70.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="813" id="id813">
+<navLabel>
+<text>Glava 46</text>
+</navLabel>
+<content src="ch70.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="814" id="id814">
+<navLabel>
+<text>Glava 47</text>
+</navLabel>
+<content src="ch70.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="815" id="id815">
+<navLabel>
+<text>Glava 48</text>
+</navLabel>
+<content src="ch70.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="816" id="id816">
+<navLabel>
+<text>Glava 49</text>
+</navLabel>
+<content src="ch70.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="817" id="id817">
+<navLabel>
+<text>Glava 50</text>
+</navLabel>
+<content src="ch70.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="818" id="id818">
+<navLabel>
+<text>Glava 51</text>
+</navLabel>
+<content src="ch70.xhtml#id14"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="819" id="id819">
+<navLabel>
+<text>Kniga proroka Isaii</text>
+</navLabel>
+<content src="ch71.xhtml"/>
+<navPoint playOrder="820" id="id820">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch71.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="821" id="id821">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch71.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="822" id="id822">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch71.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="823" id="id823">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch71.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="824" id="id824">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch71.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="825" id="id825">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch71.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="826" id="id826">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch71.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="827" id="id827">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch71.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="828" id="id828">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch71.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="829" id="id829">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch71.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="830" id="id830">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch71.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="831" id="id831">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch71.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="832" id="id832">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch71.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="833" id="id833">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch71.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="834" id="id834">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch71.xhtml#id15"/>
+</navPoint>
+<navPoint playOrder="835" id="id835">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch71.xhtml#id16"/>
+</navPoint>
+<navPoint playOrder="836" id="id836">
+<navLabel>
+<text>Glava 17</text>
+</navLabel>
+<content src="ch71.xhtml#id17"/>
+</navPoint>
+<navPoint playOrder="837" id="id837">
+<navLabel>
+<text>Glava 18</text>
+</navLabel>
+<content src="ch71.xhtml#id18"/>
+</navPoint>
+<navPoint playOrder="838" id="id838">
+<navLabel>
+<text>Glava 19</text>
+</navLabel>
+<content src="ch71.xhtml#id19"/>
+</navPoint>
+<navPoint playOrder="839" id="id839">
+<navLabel>
+<text>Glava 20</text>
+</navLabel>
+<content src="ch71.xhtml#id20"/>
+</navPoint>
+<navPoint playOrder="840" id="id840">
+<navLabel>
+<text>Glava 21</text>
+</navLabel>
+<content src="ch72.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="841" id="id841">
+<navLabel>
+<text>Glava 22</text>
+</navLabel>
+<content src="ch72.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="842" id="id842">
+<navLabel>
+<text>Glava 23</text>
+</navLabel>
+<content src="ch72.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="843" id="id843">
+<navLabel>
+<text>Glava 24</text>
+</navLabel>
+<content src="ch72.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="844" id="id844">
+<navLabel>
+<text>Glava 25</text>
+</navLabel>
+<content src="ch72.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="845" id="id845">
+<navLabel>
+<text>Glava 26</text>
+</navLabel>
+<content src="ch72.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="846" id="id846">
+<navLabel>
+<text>Glava 27</text>
+</navLabel>
+<content src="ch72.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="847" id="id847">
+<navLabel>
+<text>Glava 28</text>
+</navLabel>
+<content src="ch72.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="848" id="id848">
+<navLabel>
+<text>Glava 29</text>
+</navLabel>
+<content src="ch72.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="849" id="id849">
+<navLabel>
+<text>Glava 30</text>
+</navLabel>
+<content src="ch72.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="850" id="id850">
+<navLabel>
+<text>Glava 31</text>
+</navLabel>
+<content src="ch72.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="851" id="id851">
+<navLabel>
+<text>Glava 32</text>
+</navLabel>
+<content src="ch72.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="852" id="id852">
+<navLabel>
+<text>Glava 33</text>
+</navLabel>
+<content src="ch72.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="853" id="id853">
+<navLabel>
+<text>Glava 34</text>
+</navLabel>
+<content src="ch72.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="854" id="id854">
+<navLabel>
+<text>Glava 35</text>
+</navLabel>
+<content src="ch72.xhtml#id15"/>
+</navPoint>
+<navPoint playOrder="855" id="id855">
+<navLabel>
+<text>Glava 36</text>
+</navLabel>
+<content src="ch72.xhtml#id16"/>
+</navPoint>
+<navPoint playOrder="856" id="id856">
+<navLabel>
+<text>Glava 37</text>
+</navLabel>
+<content src="ch72.xhtml#id17"/>
+</navPoint>
+<navPoint playOrder="857" id="id857">
+<navLabel>
+<text>Glava 38</text>
+</navLabel>
+<content src="ch73.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="858" id="id858">
+<navLabel>
+<text>Glava 39</text>
+</navLabel>
+<content src="ch73.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="859" id="id859">
+<navLabel>
+<text>Glava 40</text>
+</navLabel>
+<content src="ch73.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="860" id="id860">
+<navLabel>
+<text>Glava 41</text>
+</navLabel>
+<content src="ch73.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="861" id="id861">
+<navLabel>
+<text>Glava 42</text>
+</navLabel>
+<content src="ch73.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="862" id="id862">
+<navLabel>
+<text>Glava 43</text>
+</navLabel>
+<content src="ch73.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="863" id="id863">
+<navLabel>
+<text>Glava 44</text>
+</navLabel>
+<content src="ch73.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="864" id="id864">
+<navLabel>
+<text>Glava 45</text>
+</navLabel>
+<content src="ch73.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="865" id="id865">
+<navLabel>
+<text>Glava 46</text>
+</navLabel>
+<content src="ch73.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="866" id="id866">
+<navLabel>
+<text>Glava 47</text>
+</navLabel>
+<content src="ch73.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="867" id="id867">
+<navLabel>
+<text>Glava 48</text>
+</navLabel>
+<content src="ch73.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="868" id="id868">
+<navLabel>
+<text>Glava 49</text>
+</navLabel>
+<content src="ch73.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="869" id="id869">
+<navLabel>
+<text>Glava 50</text>
+</navLabel>
+<content src="ch73.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="870" id="id870">
+<navLabel>
+<text>Glava 51</text>
+</navLabel>
+<content src="ch73.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="871" id="id871">
+<navLabel>
+<text>Glava 52</text>
+</navLabel>
+<content src="ch73.xhtml#id15"/>
+</navPoint>
+<navPoint playOrder="872" id="id872">
+<navLabel>
+<text>Glava 53</text>
+</navLabel>
+<content src="ch73.xhtml#id16"/>
+</navPoint>
+<navPoint playOrder="873" id="id873">
+<navLabel>
+<text>Glava 54</text>
+</navLabel>
+<content src="ch73.xhtml#id17"/>
+</navPoint>
+<navPoint playOrder="874" id="id874">
+<navLabel>
+<text>Glava 55</text>
+</navLabel>
+<content src="ch74.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="875" id="id875">
+<navLabel>
+<text>Glava 56</text>
+</navLabel>
+<content src="ch74.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="876" id="id876">
+<navLabel>
+<text>Glava 57</text>
+</navLabel>
+<content src="ch74.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="877" id="id877">
+<navLabel>
+<text>Glava 58</text>
+</navLabel>
+<content src="ch74.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="878" id="id878">
+<navLabel>
+<text>Glava 59</text>
+</navLabel>
+<content src="ch74.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="879" id="id879">
+<navLabel>
+<text>Glava 60</text>
+</navLabel>
+<content src="ch74.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="880" id="id880">
+<navLabel>
+<text>Glava 61</text>
+</navLabel>
+<content src="ch74.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="881" id="id881">
+<navLabel>
+<text>Glava 62</text>
+</navLabel>
+<content src="ch74.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="882" id="id882">
+<navLabel>
+<text>Glava 63</text>
+</navLabel>
+<content src="ch74.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="883" id="id883">
+<navLabel>
+<text>Glava 64</text>
+</navLabel>
+<content src="ch74.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="884" id="id884">
+<navLabel>
+<text>Glava 65</text>
+</navLabel>
+<content src="ch74.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="885" id="id885">
+<navLabel>
+<text>Glava 66</text>
+</navLabel>
+<content src="ch74.xhtml#id12"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="886" id="id886">
+<navLabel>
+<text>Kniga proroka Ieremii</text>
+</navLabel>
+<content src="ch75.xhtml"/>
+<navPoint playOrder="887" id="id887">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch75.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="888" id="id888">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch75.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="889" id="id889">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch75.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="890" id="id890">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch75.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="891" id="id891">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch75.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="892" id="id892">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch75.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="893" id="id893">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch75.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="894" id="id894">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch75.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="895" id="id895">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch75.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="896" id="id896">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch75.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="897" id="id897">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch75.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="898" id="id898">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch75.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="899" id="id899">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch75.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="900" id="id900">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch76.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="901" id="id901">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch76.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="902" id="id902">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch76.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="903" id="id903">
+<navLabel>
+<text>Glava 17</text>
+</navLabel>
+<content src="ch76.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="904" id="id904">
+<navLabel>
+<text>Glava 18</text>
+</navLabel>
+<content src="ch76.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="905" id="id905">
+<navLabel>
+<text>Glava 19</text>
+</navLabel>
+<content src="ch76.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="906" id="id906">
+<navLabel>
+<text>Glava 20</text>
+</navLabel>
+<content src="ch76.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="907" id="id907">
+<navLabel>
+<text>Glava 21</text>
+</navLabel>
+<content src="ch76.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="908" id="id908">
+<navLabel>
+<text>Glava 22</text>
+</navLabel>
+<content src="ch76.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="909" id="id909">
+<navLabel>
+<text>Glava 23</text>
+</navLabel>
+<content src="ch76.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="910" id="id910">
+<navLabel>
+<text>Glava 24</text>
+</navLabel>
+<content src="ch76.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="911" id="id911">
+<navLabel>
+<text>Glava 25</text>
+</navLabel>
+<content src="ch76.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="912" id="id912">
+<navLabel>
+<text>Glava 26</text>
+</navLabel>
+<content src="ch76.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="913" id="id913">
+<navLabel>
+<text>Glava 27</text>
+</navLabel>
+<content src="ch76.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="914" id="id914">
+<navLabel>
+<text>Glava 28</text>
+</navLabel>
+<content src="ch77.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="915" id="id915">
+<navLabel>
+<text>Glava 29</text>
+</navLabel>
+<content src="ch77.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="916" id="id916">
+<navLabel>
+<text>Glava 30</text>
+</navLabel>
+<content src="ch77.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="917" id="id917">
+<navLabel>
+<text>Glava 31</text>
+</navLabel>
+<content src="ch77.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="918" id="id918">
+<navLabel>
+<text>Glava 32</text>
+</navLabel>
+<content src="ch77.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="919" id="id919">
+<navLabel>
+<text>Glava 33</text>
+</navLabel>
+<content src="ch77.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="920" id="id920">
+<navLabel>
+<text>Glava 34</text>
+</navLabel>
+<content src="ch77.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="921" id="id921">
+<navLabel>
+<text>Glava 35</text>
+</navLabel>
+<content src="ch77.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="922" id="id922">
+<navLabel>
+<text>Glava 36</text>
+</navLabel>
+<content src="ch77.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="923" id="id923">
+<navLabel>
+<text>Glava 37</text>
+</navLabel>
+<content src="ch77.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="924" id="id924">
+<navLabel>
+<text>Glava 38</text>
+</navLabel>
+<content src="ch77.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="925" id="id925">
+<navLabel>
+<text>Glava 39</text>
+</navLabel>
+<content src="ch78.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="926" id="id926">
+<navLabel>
+<text>Glava 40</text>
+</navLabel>
+<content src="ch78.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="927" id="id927">
+<navLabel>
+<text>Glava 41</text>
+</navLabel>
+<content src="ch78.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="928" id="id928">
+<navLabel>
+<text>Glava 42</text>
+</navLabel>
+<content src="ch78.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="929" id="id929">
+<navLabel>
+<text>Glava 43</text>
+</navLabel>
+<content src="ch78.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="930" id="id930">
+<navLabel>
+<text>Glava 44</text>
+</navLabel>
+<content src="ch78.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="931" id="id931">
+<navLabel>
+<text>Glava 45</text>
+</navLabel>
+<content src="ch78.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="932" id="id932">
+<navLabel>
+<text>Glava 46</text>
+</navLabel>
+<content src="ch78.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="933" id="id933">
+<navLabel>
+<text>Glava 47</text>
+</navLabel>
+<content src="ch78.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="934" id="id934">
+<navLabel>
+<text>Glava 48</text>
+</navLabel>
+<content src="ch78.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="935" id="id935">
+<navLabel>
+<text>Glava 49</text>
+</navLabel>
+<content src="ch78.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="936" id="id936">
+<navLabel>
+<text>Glava 50</text>
+</navLabel>
+<content src="ch78.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="937" id="id937">
+<navLabel>
+<text>Glava 51</text>
+</navLabel>
+<content src="ch79.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="938" id="id938">
+<navLabel>
+<text>Glava 52</text>
+</navLabel>
+<content src="ch79.xhtml#id2"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="939" id="id939">
+<navLabel>
+<text>Plach Ieremii</text>
+</navLabel>
+<content src="ch80.xhtml"/>
+<navPoint playOrder="940" id="id940">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch80.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="941" id="id941">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch80.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="942" id="id942">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch80.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="943" id="id943">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch80.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="944" id="id944">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch80.xhtml#id5"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="945" id="id945">
+<navLabel>
+<text>Poslanie Ieremii *</text>
+</navLabel>
+<content src="ch81.xhtml#id1"/>
+<navPoint playOrder="946" id="id946">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch81.xhtml#id2"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="947" id="id947">
+<navLabel>
+<text>Kniga proroka Varuha *</text>
+</navLabel>
+<content src="ch82.xhtml"/>
+<navPoint playOrder="948" id="id948">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch82.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="949" id="id949">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch82.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="950" id="id950">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch82.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="951" id="id951">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch82.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="952" id="id952">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch82.xhtml#id5"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="953" id="id953">
+<navLabel>
+<text>Kniga proroka Iezekiilya</text>
+</navLabel>
+<content src="ch83.xhtml"/>
+<navPoint playOrder="954" id="id954">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch83.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="955" id="id955">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch83.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="956" id="id956">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch83.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="957" id="id957">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch83.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="958" id="id958">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch83.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="959" id="id959">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch83.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="960" id="id960">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch83.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="961" id="id961">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch83.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="962" id="id962">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch83.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="963" id="id963">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch83.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="964" id="id964">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch83.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="965" id="id965">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch83.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="966" id="id966">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch83.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="967" id="id967">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch83.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="968" id="id968">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch83.xhtml#id15"/>
+</navPoint>
+<navPoint playOrder="969" id="id969">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch84.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="970" id="id970">
+<navLabel>
+<text>Glava 17</text>
+</navLabel>
+<content src="ch84.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="971" id="id971">
+<navLabel>
+<text>Glava 18</text>
+</navLabel>
+<content src="ch84.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="972" id="id972">
+<navLabel>
+<text>Glava 19</text>
+</navLabel>
+<content src="ch84.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="973" id="id973">
+<navLabel>
+<text>Glava 20</text>
+</navLabel>
+<content src="ch84.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="974" id="id974">
+<navLabel>
+<text>Glava 21</text>
+</navLabel>
+<content src="ch84.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="975" id="id975">
+<navLabel>
+<text>Glava 22</text>
+</navLabel>
+<content src="ch84.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="976" id="id976">
+<navLabel>
+<text>Glava 23</text>
+</navLabel>
+<content src="ch84.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="977" id="id977">
+<navLabel>
+<text>Glava 24</text>
+</navLabel>
+<content src="ch84.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="978" id="id978">
+<navLabel>
+<text>Glava 25</text>
+</navLabel>
+<content src="ch84.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="979" id="id979">
+<navLabel>
+<text>Glava 26</text>
+</navLabel>
+<content src="ch85.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="980" id="id980">
+<navLabel>
+<text>Glava 27</text>
+</navLabel>
+<content src="ch85.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="981" id="id981">
+<navLabel>
+<text>Glava 28</text>
+</navLabel>
+<content src="ch85.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="982" id="id982">
+<navLabel>
+<text>Glava 29</text>
+</navLabel>
+<content src="ch85.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="983" id="id983">
+<navLabel>
+<text>Glava 30</text>
+</navLabel>
+<content src="ch85.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="984" id="id984">
+<navLabel>
+<text>Glava 31</text>
+</navLabel>
+<content src="ch85.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="985" id="id985">
+<navLabel>
+<text>Glava 32</text>
+</navLabel>
+<content src="ch85.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="986" id="id986">
+<navLabel>
+<text>Glava 33</text>
+</navLabel>
+<content src="ch85.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="987" id="id987">
+<navLabel>
+<text>Glava 34</text>
+</navLabel>
+<content src="ch85.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="988" id="id988">
+<navLabel>
+<text>Glava 35</text>
+</navLabel>
+<content src="ch85.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="989" id="id989">
+<navLabel>
+<text>Glava 36</text>
+</navLabel>
+<content src="ch85.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="990" id="id990">
+<navLabel>
+<text>Glava 37</text>
+</navLabel>
+<content src="ch85.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="991" id="id991">
+<navLabel>
+<text>Glava 38</text>
+</navLabel>
+<content src="ch86.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="992" id="id992">
+<navLabel>
+<text>Glava 39</text>
+</navLabel>
+<content src="ch86.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="993" id="id993">
+<navLabel>
+<text>Glava 40</text>
+</navLabel>
+<content src="ch86.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="994" id="id994">
+<navLabel>
+<text>Glava 41</text>
+</navLabel>
+<content src="ch86.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="995" id="id995">
+<navLabel>
+<text>Glava 42</text>
+</navLabel>
+<content src="ch86.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="996" id="id996">
+<navLabel>
+<text>Glava 43</text>
+</navLabel>
+<content src="ch86.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="997" id="id997">
+<navLabel>
+<text>Glava 44</text>
+</navLabel>
+<content src="ch86.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="998" id="id998">
+<navLabel>
+<text>Glava 45</text>
+</navLabel>
+<content src="ch86.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="999" id="id999">
+<navLabel>
+<text>Glava 46</text>
+</navLabel>
+<content src="ch86.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="1000" id="id1000">
+<navLabel>
+<text>Glava 47</text>
+</navLabel>
+<content src="ch86.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="1001" id="id1001">
+<navLabel>
+<text>Glava 48</text>
+</navLabel>
+<content src="ch86.xhtml#id11"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1002" id="id1002">
+<navLabel>
+<text>Kniga proroka Daniila</text>
+</navLabel>
+<content src="ch87.xhtml"/>
+<navPoint playOrder="1003" id="id1003">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch87.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1004" id="id1004">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch87.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1005" id="id1005">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch88.xhtml"/>
+</navPoint>
+<navPoint playOrder="1006" id="id1006">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch89.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1007" id="id1007">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch89.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1008" id="id1008">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch89.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1009" id="id1009">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch89.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1010" id="id1010">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch89.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1011" id="id1011">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch89.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="1012" id="id1012">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch89.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="1013" id="id1013">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch89.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="1014" id="id1014">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch89.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="1015" id="id1015">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch89.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="1016" id="id1016">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch90.xhtml#id1"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1017" id="id1017">
+<navLabel>
+<text>Kniga proroka Osii</text>
+</navLabel>
+<content src="ch91.xhtml"/>
+<navPoint playOrder="1018" id="id1018">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch91.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1019" id="id1019">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch91.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1020" id="id1020">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch91.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1021" id="id1021">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch91.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1022" id="id1022">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch91.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1023" id="id1023">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch91.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="1024" id="id1024">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch91.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="1025" id="id1025">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch91.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="1026" id="id1026">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch91.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="1027" id="id1027">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch91.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="1028" id="id1028">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch91.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="1029" id="id1029">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch91.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="1030" id="id1030">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch91.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="1031" id="id1031">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch91.xhtml#id14"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1032" id="id1032">
+<navLabel>
+<text>Kniga proroka Ioilya</text>
+</navLabel>
+<content src="ch92.xhtml#id1"/>
+<navPoint playOrder="1033" id="id1033">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch92.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1034" id="id1034">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch92.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1035" id="id1035">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch92.xhtml#id4"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1036" id="id1036">
+<navLabel>
+<text>Kniga proroka Amosa</text>
+</navLabel>
+<content src="ch93.xhtml"/>
+<navPoint playOrder="1037" id="id1037">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch93.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1038" id="id1038">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch93.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1039" id="id1039">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch93.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1040" id="id1040">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch93.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1041" id="id1041">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch93.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1042" id="id1042">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch93.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="1043" id="id1043">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch93.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="1044" id="id1044">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch93.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="1045" id="id1045">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch93.xhtml#id9"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1046" id="id1046">
+<navLabel>
+<text>Kniga proroka Avdiya</text>
+</navLabel>
+<content src="ch94.xhtml#id1"/>
+<navPoint playOrder="1047" id="id1047">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch94.xhtml#id2"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1048" id="id1048">
+<navLabel>
+<text>Kniga proroka Iony</text>
+</navLabel>
+<content src="ch94.xhtml#id3"/>
+<navPoint playOrder="1049" id="id1049">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch94.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1050" id="id1050">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch94.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1051" id="id1051">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch94.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="1052" id="id1052">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch94.xhtml#id7"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1053" id="id1053">
+<navLabel>
+<text>Kniga proroka Miheya</text>
+</navLabel>
+<content src="ch95.xhtml"/>
+<navPoint playOrder="1054" id="id1054">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch95.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1055" id="id1055">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch95.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1056" id="id1056">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch95.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1057" id="id1057">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch95.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1058" id="id1058">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch95.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1059" id="id1059">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch95.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="1060" id="id1060">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch95.xhtml#id7"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1061" id="id1061">
+<navLabel>
+<text>Kniga proroka Nauma</text>
+</navLabel>
+<content src="ch96.xhtml#id1"/>
+<navPoint playOrder="1062" id="id1062">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch96.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1063" id="id1063">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch96.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1064" id="id1064">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch96.xhtml#id4"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1065" id="id1065">
+<navLabel>
+<text>Kniga proroka Avvakuma</text>
+</navLabel>
+<content src="ch96.xhtml#id5"/>
+<navPoint playOrder="1066" id="id1066">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch96.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="1067" id="id1067">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch96.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="1068" id="id1068">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch96.xhtml#id8"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1069" id="id1069">
+<navLabel>
+<text>Kniga proroka Sofonii</text>
+</navLabel>
+<content src="ch96.xhtml#id9"/>
+<navPoint playOrder="1070" id="id1070">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch96.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="1071" id="id1071">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch96.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="1072" id="id1072">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch96.xhtml#id12"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1073" id="id1073">
+<navLabel>
+<text>Kniga proroka Aggeya</text>
+</navLabel>
+<content src="ch96.xhtml#id13"/>
+<navPoint playOrder="1074" id="id1074">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch96.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="1075" id="id1075">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch96.xhtml#id15"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1076" id="id1076">
+<navLabel>
+<text>Kniga proroka Zaharii</text>
+</navLabel>
+<content src="ch97.xhtml"/>
+<navPoint playOrder="1077" id="id1077">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch97.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1078" id="id1078">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch97.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1079" id="id1079">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch97.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1080" id="id1080">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch97.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1081" id="id1081">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch97.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1082" id="id1082">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch97.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="1083" id="id1083">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch97.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="1084" id="id1084">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch97.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="1085" id="id1085">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch97.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="1086" id="id1086">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch97.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="1087" id="id1087">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch97.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="1088" id="id1088">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch97.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="1089" id="id1089">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch97.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="1090" id="id1090">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch97.xhtml#id14"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1091" id="id1091">
+<navLabel>
+<text>Kniga proroka Malahii</text>
+</navLabel>
+<content src="ch98.xhtml#id1"/>
+<navPoint playOrder="1092" id="id1092">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch98.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1093" id="id1093">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch98.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1094" id="id1094">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch98.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1095" id="id1095">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch98.xhtml#id5"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1096" id="id1096">
+<navLabel>
+<text>Pervaya kniga Makkavejskaya *</text>
+</navLabel>
+<content src="ch99.xhtml"/>
+<navPoint playOrder="1097" id="id1097">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch99.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1098" id="id1098">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch99.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1099" id="id1099">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch99.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1100" id="id1100">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch99.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1101" id="id1101">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch99.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1102" id="id1102">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch99.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="1103" id="id1103">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch100.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1104" id="id1104">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch100.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1105" id="id1105">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch100.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1106" id="id1106">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch101.xhtml"/>
+</navPoint>
+<navPoint playOrder="1107" id="id1107">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch102.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1108" id="id1108">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch102.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1109" id="id1109">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch102.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1110" id="id1110">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch102.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1111" id="id1111">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch102.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1112" id="id1112">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch102.xhtml#id6"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1113" id="id1113">
+<navLabel>
+<text>Vtoraya kniga Makkavejskaya *</text>
+</navLabel>
+<content src="ch103.xhtml"/>
+<navPoint playOrder="1114" id="id1114">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch103.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1115" id="id1115">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch103.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1116" id="id1116">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch103.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1117" id="id1117">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch103.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1118" id="id1118">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch103.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1119" id="id1119">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch103.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="1120" id="id1120">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch103.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="1121" id="id1121">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch103.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="1122" id="id1122">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch103.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="1123" id="id1123">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch104.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1124" id="id1124">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch104.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1125" id="id1125">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch104.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1126" id="id1126">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch104.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1127" id="id1127">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch104.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1128" id="id1128">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch104.xhtml#id6"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1129" id="id1129">
+<navLabel>
+<text>Tret'ya kniga Makkavejskaya *</text>
+</navLabel>
+<content src="ch105.xhtml"/>
+<navPoint playOrder="1130" id="id1130">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch105.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1131" id="id1131">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch105.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1132" id="id1132">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch105.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1133" id="id1133">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch105.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1134" id="id1134">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch105.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1135" id="id1135">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch105.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="1136" id="id1136">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch105.xhtml#id7"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1137" id="id1137">
+<navLabel>
+<text>Tret'ya kniga Ezdry *</text>
+</navLabel>
+<content src="ch106.xhtml"/>
+<navPoint playOrder="1138" id="id1138">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch106.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1139" id="id1139">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch106.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1140" id="id1140">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch106.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1141" id="id1141">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch106.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1142" id="id1142">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch106.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1143" id="id1143">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch106.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="1144" id="id1144">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch106.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="1145" id="id1145">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch106.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="1146" id="id1146">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch107.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1147" id="id1147">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch107.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1148" id="id1148">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch107.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1149" id="id1149">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch107.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1150" id="id1150">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch107.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1151" id="id1151">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch107.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="1152" id="id1152">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch107.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="1153" id="id1153">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch107.xhtml#id8"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1154" id="id1154">
+<navLabel>
+<text>Evangelie</text>
+</navLabel>
+<content src="ch109.xhtml"/>
+<navPoint playOrder="1155" id="id1155">
+<navLabel>
+<text>Ot Matfeya svyatoe blagovestvovanie</text>
+</navLabel>
+<content src="ch110.xhtml"/>
+<navPoint playOrder="1156" id="id1156">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch110.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1157" id="id1157">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch110.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1158" id="id1158">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch110.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1159" id="id1159">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch110.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1160" id="id1160">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch110.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1161" id="id1161">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch110.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="1162" id="id1162">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch110.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="1163" id="id1163">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch110.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="1164" id="id1164">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch110.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="1165" id="id1165">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch110.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="1166" id="id1166">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch110.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="1167" id="id1167">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch110.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="1168" id="id1168">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch110.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="1169" id="id1169">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch111.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1170" id="id1170">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch111.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1171" id="id1171">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch111.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1172" id="id1172">
+<navLabel>
+<text>Glava 17</text>
+</navLabel>
+<content src="ch111.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1173" id="id1173">
+<navLabel>
+<text>Glava 18</text>
+</navLabel>
+<content src="ch111.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1174" id="id1174">
+<navLabel>
+<text>Glava 19</text>
+</navLabel>
+<content src="ch111.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="1175" id="id1175">
+<navLabel>
+<text>Glava 20</text>
+</navLabel>
+<content src="ch111.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="1176" id="id1176">
+<navLabel>
+<text>Glava 21</text>
+</navLabel>
+<content src="ch111.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="1177" id="id1177">
+<navLabel>
+<text>Glava 22</text>
+</navLabel>
+<content src="ch111.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="1178" id="id1178">
+<navLabel>
+<text>Glava 23</text>
+</navLabel>
+<content src="ch111.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="1179" id="id1179">
+<navLabel>
+<text>Glava 24</text>
+</navLabel>
+<content src="ch111.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="1180" id="id1180">
+<navLabel>
+<text>Glava 25</text>
+</navLabel>
+<content src="ch111.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="1181" id="id1181">
+<navLabel>
+<text>Glava 26</text>
+</navLabel>
+<content src="ch112.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1182" id="id1182">
+<navLabel>
+<text>Glava 27</text>
+</navLabel>
+<content src="ch112.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1183" id="id1183">
+<navLabel>
+<text>Glava 28</text>
+</navLabel>
+<content src="ch112.xhtml#id3"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1184" id="id1184">
+<navLabel>
+<text>Ot Marka svyatoe blagovestvovanie</text>
+</navLabel>
+<content src="ch113.xhtml"/>
+<navPoint playOrder="1185" id="id1185">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch113.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1186" id="id1186">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch113.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1187" id="id1187">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch113.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1188" id="id1188">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch113.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1189" id="id1189">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch113.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1190" id="id1190">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch113.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="1191" id="id1191">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch113.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="1192" id="id1192">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch113.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="1193" id="id1193">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch113.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="1194" id="id1194">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch113.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="1195" id="id1195">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch113.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="1196" id="id1196">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch114.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1197" id="id1197">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch114.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1198" id="id1198">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch114.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1199" id="id1199">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch114.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1200" id="id1200">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch114.xhtml#id5"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1201" id="id1201">
+<navLabel>
+<text>Ot Luki svyatoe blagovestvovanie</text>
+</navLabel>
+<content src="ch115.xhtml"/>
+<navPoint playOrder="1202" id="id1202">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch115.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1203" id="id1203">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch115.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1204" id="id1204">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch115.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1205" id="id1205">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch115.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1206" id="id1206">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch115.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1207" id="id1207">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch115.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="1208" id="id1208">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch115.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="1209" id="id1209">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch115.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="1210" id="id1210">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch116.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1211" id="id1211">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch116.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1212" id="id1212">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch116.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1213" id="id1213">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch116.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1214" id="id1214">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch116.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1215" id="id1215">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch116.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="1216" id="id1216">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch116.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="1217" id="id1217">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch116.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="1218" id="id1218">
+<navLabel>
+<text>Glava 17</text>
+</navLabel>
+<content src="ch116.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="1219" id="id1219">
+<navLabel>
+<text>Glava 18</text>
+</navLabel>
+<content src="ch116.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="1220" id="id1220">
+<navLabel>
+<text>Glava 19</text>
+</navLabel>
+<content src="ch117.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1221" id="id1221">
+<navLabel>
+<text>Glava 20</text>
+</navLabel>
+<content src="ch117.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1222" id="id1222">
+<navLabel>
+<text>Glava 21</text>
+</navLabel>
+<content src="ch117.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1223" id="id1223">
+<navLabel>
+<text>Glava 22</text>
+</navLabel>
+<content src="ch117.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1224" id="id1224">
+<navLabel>
+<text>Glava 23</text>
+</navLabel>
+<content src="ch117.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1225" id="id1225">
+<navLabel>
+<text>Glava 24</text>
+</navLabel>
+<content src="ch117.xhtml#id6"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1226" id="id1226">
+<navLabel>
+<text>Ot Ioanna svyatoe blagovestvovanie</text>
+</navLabel>
+<content src="ch118.xhtml"/>
+<navPoint playOrder="1227" id="id1227">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch118.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1228" id="id1228">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch118.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1229" id="id1229">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch118.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1230" id="id1230">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch118.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1231" id="id1231">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch118.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1232" id="id1232">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch118.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="1233" id="id1233">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch118.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="1234" id="id1234">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch118.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="1235" id="id1235">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch118.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="1236" id="id1236">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch118.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="1237" id="id1237">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch119.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1238" id="id1238">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch119.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1239" id="id1239">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch119.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1240" id="id1240">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch119.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1241" id="id1241">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch119.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1242" id="id1242">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch119.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="1243" id="id1243">
+<navLabel>
+<text>Glava 17</text>
+</navLabel>
+<content src="ch119.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="1244" id="id1244">
+<navLabel>
+<text>Glava 18</text>
+</navLabel>
+<content src="ch119.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="1245" id="id1245">
+<navLabel>
+<text>Glava 19</text>
+</navLabel>
+<content src="ch119.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="1246" id="id1246">
+<navLabel>
+<text>Glava 20</text>
+</navLabel>
+<content src="ch119.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="1247" id="id1247">
+<navLabel>
+<text>Glava 21</text>
+</navLabel>
+<content src="ch119.xhtml#id11"/>
+</navPoint>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1248" id="id1248">
+<navLabel>
+<text>Deyaniya svyatyh apostolov</text>
+</navLabel>
+<content src="ch120.xhtml"/>
+<navPoint playOrder="1249" id="id1249">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch120.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1250" id="id1250">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch120.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1251" id="id1251">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch120.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1252" id="id1252">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch120.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1253" id="id1253">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch120.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1254" id="id1254">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch120.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="1255" id="id1255">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch120.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="1256" id="id1256">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch120.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="1257" id="id1257">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch120.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="1258" id="id1258">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch120.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="1259" id="id1259">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch120.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="1260" id="id1260">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch121.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1261" id="id1261">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch121.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1262" id="id1262">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch121.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1263" id="id1263">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch121.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1264" id="id1264">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch121.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1265" id="id1265">
+<navLabel>
+<text>Glava 17</text>
+</navLabel>
+<content src="ch121.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="1266" id="id1266">
+<navLabel>
+<text>Glava 18</text>
+</navLabel>
+<content src="ch121.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="1267" id="id1267">
+<navLabel>
+<text>Glava 19</text>
+</navLabel>
+<content src="ch121.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="1268" id="id1268">
+<navLabel>
+<text>Glava 20</text>
+</navLabel>
+<content src="ch121.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="1269" id="id1269">
+<navLabel>
+<text>Glava 21</text>
+</navLabel>
+<content src="ch121.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="1270" id="id1270">
+<navLabel>
+<text>Glava 22</text>
+</navLabel>
+<content src="ch121.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="1271" id="id1271">
+<navLabel>
+<text>Glava 23</text>
+</navLabel>
+<content src="ch122.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1272" id="id1272">
+<navLabel>
+<text>Glava 24</text>
+</navLabel>
+<content src="ch122.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1273" id="id1273">
+<navLabel>
+<text>Glava 25</text>
+</navLabel>
+<content src="ch122.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1274" id="id1274">
+<navLabel>
+<text>Glava 26</text>
+</navLabel>
+<content src="ch122.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1275" id="id1275">
+<navLabel>
+<text>Glava 27</text>
+</navLabel>
+<content src="ch122.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1276" id="id1276">
+<navLabel>
+<text>Glava 28</text>
+</navLabel>
+<content src="ch122.xhtml#id6"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1277" id="id1277">
+<navLabel>
+<text>Sobornye poslaniya apostolov</text>
+</navLabel>
+<content src="ch123.xhtml"/>
+<navPoint playOrder="1278" id="id1278">
+<navLabel>
+<text>Sobornoe poslanie svyatogo apostola Iakova</text>
+</navLabel>
+<content src="ch124.xhtml"/>
+<navPoint playOrder="1279" id="id1279">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch124.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1280" id="id1280">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch124.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1281" id="id1281">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch124.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1282" id="id1282">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch124.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1283" id="id1283">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch124.xhtml#id5"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1284" id="id1284">
+<navLabel>
+<text>Pervoe sobornoe poslanie svyatogo apostola Petra</text>
+</navLabel>
+<content src="ch125.xhtml"/>
+<navPoint playOrder="1285" id="id1285">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch125.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1286" id="id1286">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch125.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1287" id="id1287">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch125.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1288" id="id1288">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch125.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1289" id="id1289">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch125.xhtml#id5"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1290" id="id1290">
+<navLabel>
+<text>Vtoroe sobornoe poslanie svyatogo apostola Petra</text>
+</navLabel>
+<content src="ch126.xhtml#id1"/>
+<navPoint playOrder="1291" id="id1291">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch126.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1292" id="id1292">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch126.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1293" id="id1293">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch126.xhtml#id4"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1294" id="id1294">
+<navLabel>
+<text>Pervoe sobornoe poslanie svyatogo apostola Ioanna Bogoslova</text>
+</navLabel>
+<content src="ch127.xhtml"/>
+<navPoint playOrder="1295" id="id1295">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch127.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1296" id="id1296">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch127.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1297" id="id1297">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch127.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1298" id="id1298">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch127.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1299" id="id1299">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch127.xhtml#id5"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1300" id="id1300">
+<navLabel>
+<text>Vtoroe sobornoe poslanie svyatogo apostola Ioanna Bogoslova</text>
+</navLabel>
+<content src="ch128.xhtml#id1"/>
+<navPoint playOrder="1301" id="id1301">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch128.xhtml#id2"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1302" id="id1302">
+<navLabel>
+<text>Tret'e sobornoe poslanie svyatogo apostola Ioanna Bogoslova</text>
+</navLabel>
+<content src="ch128.xhtml#id3"/>
+<navPoint playOrder="1303" id="id1303">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch128.xhtml#id4"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1304" id="id1304">
+<navLabel>
+<text>Sobornoe poslanie svyatogo apostola Iudy</text>
+</navLabel>
+<content src="ch128.xhtml#id5"/>
+<navPoint playOrder="1305" id="id1305">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch128.xhtml#id6"/>
+</navPoint>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1306" id="id1306">
+<navLabel>
+<text>Poslaniya apostola Pavla</text>
+</navLabel>
+<content src="ch129.xhtml"/>
+<navPoint playOrder="1307" id="id1307">
+<navLabel>
+<text>Poslanie k Rimlyanam svyatogo apostola Pavla</text>
+</navLabel>
+<content src="ch130.xhtml"/>
+<navPoint playOrder="1308" id="id1308">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch130.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1309" id="id1309">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch130.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1310" id="id1310">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch130.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1311" id="id1311">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch130.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1312" id="id1312">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch130.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1313" id="id1313">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch130.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="1314" id="id1314">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch130.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="1315" id="id1315">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch130.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="1316" id="id1316">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch130.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="1317" id="id1317">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch130.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="1318" id="id1318">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch130.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="1319" id="id1319">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch130.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="1320" id="id1320">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch130.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="1321" id="id1321">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch130.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="1322" id="id1322">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch130.xhtml#id15"/>
+</navPoint>
+<navPoint playOrder="1323" id="id1323">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch130.xhtml#id16"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1324" id="id1324">
+<navLabel>
+<text>Pervoe poslanie k Korinfyanam svyatogo apostola Pavla</text>
+</navLabel>
+<content src="ch131.xhtml"/>
+<navPoint playOrder="1325" id="id1325">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch131.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1326" id="id1326">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch131.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1327" id="id1327">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch131.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1328" id="id1328">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch131.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1329" id="id1329">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch131.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1330" id="id1330">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch131.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="1331" id="id1331">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch131.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="1332" id="id1332">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch131.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="1333" id="id1333">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch131.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="1334" id="id1334">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch131.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="1335" id="id1335">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch131.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="1336" id="id1336">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch131.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="1337" id="id1337">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch131.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="1338" id="id1338">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch131.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="1339" id="id1339">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch131.xhtml#id15"/>
+</navPoint>
+<navPoint playOrder="1340" id="id1340">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch131.xhtml#id16"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1341" id="id1341">
+<navLabel>
+<text>Vtoroe poslanie k Korinfyanam svyatogo apostola Pavla</text>
+</navLabel>
+<content src="ch132.xhtml"/>
+<navPoint playOrder="1342" id="id1342">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch132.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1343" id="id1343">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch132.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1344" id="id1344">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch132.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1345" id="id1345">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch132.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1346" id="id1346">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch132.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1347" id="id1347">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch132.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="1348" id="id1348">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch132.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="1349" id="id1349">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch132.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="1350" id="id1350">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch132.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="1351" id="id1351">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch132.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="1352" id="id1352">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch132.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="1353" id="id1353">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch132.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="1354" id="id1354">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch132.xhtml#id13"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1355" id="id1355">
+<navLabel>
+<text>Poslanie k Galatam svyatogo apostola Pavla</text>
+</navLabel>
+<content src="ch133.xhtml"/>
+<navPoint playOrder="1356" id="id1356">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch133.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1357" id="id1357">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch133.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1358" id="id1358">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch133.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1359" id="id1359">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch133.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1360" id="id1360">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch133.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1361" id="id1361">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch133.xhtml#id6"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1362" id="id1362">
+<navLabel>
+<text>Poslanie k Efesyanam svyatogo apostola Pavla</text>
+</navLabel>
+<content src="ch134.xhtml"/>
+<navPoint playOrder="1363" id="id1363">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch134.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1364" id="id1364">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch134.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1365" id="id1365">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch134.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1366" id="id1366">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch134.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1367" id="id1367">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch134.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1368" id="id1368">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch134.xhtml#id6"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1369" id="id1369">
+<navLabel>
+<text>Poslanie k Filippijtsam svyatogo apostola Pavla</text>
+</navLabel>
+<content src="ch135.xhtml#id1"/>
+<navPoint playOrder="1370" id="id1370">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch135.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1371" id="id1371">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch135.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1372" id="id1372">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch135.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1373" id="id1373">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch135.xhtml#id5"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1374" id="id1374">
+<navLabel>
+<text>Poslanie k Kolossyanam svyatogo apostola Pavla</text>
+</navLabel>
+<content src="ch135.xhtml#id6"/>
+<navPoint playOrder="1375" id="id1375">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch135.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="1376" id="id1376">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch135.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="1377" id="id1377">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch135.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="1378" id="id1378">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch135.xhtml#id10"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1379" id="id1379">
+<navLabel>
+<text>Pervoe poslanie k Fessalonikijtsam svyatogo Apostola Pavla</text>
+</navLabel>
+<content src="ch135.xhtml#id11"/>
+<navPoint playOrder="1380" id="id1380">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch135.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="1381" id="id1381">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch135.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="1382" id="id1382">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch135.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="1383" id="id1383">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch135.xhtml#id15"/>
+</navPoint>
+<navPoint playOrder="1384" id="id1384">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch135.xhtml#id16"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1385" id="id1385">
+<navLabel>
+<text>Vtoroe poslanie k Fessalonikijtsam svyatogo apostola Pavla</text>
+</navLabel>
+<content src="ch135.xhtml#id17"/>
+<navPoint playOrder="1386" id="id1386">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch135.xhtml#id18"/>
+</navPoint>
+<navPoint playOrder="1387" id="id1387">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch135.xhtml#id19"/>
+</navPoint>
+<navPoint playOrder="1388" id="id1388">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch135.xhtml#id20"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1389" id="id1389">
+<navLabel>
+<text>Pervoe poslanie k Timofeyu svyatogo apostola Pavla</text>
+</navLabel>
+<content src="ch136.xhtml"/>
+<navPoint playOrder="1390" id="id1390">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch136.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1391" id="id1391">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch136.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1392" id="id1392">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch136.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1393" id="id1393">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch136.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1394" id="id1394">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch136.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1395" id="id1395">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch136.xhtml#id6"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1396" id="id1396">
+<navLabel>
+<text>Vtoroe poslanie k Timofeyu svyatogo apostola Pavla</text>
+</navLabel>
+<content src="ch137.xhtml#id1"/>
+<navPoint playOrder="1397" id="id1397">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch137.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1398" id="id1398">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch137.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1399" id="id1399">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch137.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1400" id="id1400">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch137.xhtml#id5"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1401" id="id1401">
+<navLabel>
+<text>Poslanie k Titu svyatogo apostola Pavla</text>
+</navLabel>
+<content src="ch137.xhtml#id6"/>
+<navPoint playOrder="1402" id="id1402">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch137.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="1403" id="id1403">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch137.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="1404" id="id1404">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch137.xhtml#id9"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1405" id="id1405">
+<navLabel>
+<text>Poslanie k Filimonu svyatogo apostola Pavla</text>
+</navLabel>
+<content src="ch137.xhtml#id10"/>
+<navPoint playOrder="1406" id="id1406">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch137.xhtml#id11"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1407" id="id1407">
+<navLabel>
+<text>Poslanie k Evreyam svyatogo apostola Pavla</text>
+</navLabel>
+<content src="ch138.xhtml"/>
+<navPoint playOrder="1408" id="id1408">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch138.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1409" id="id1409">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch138.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1410" id="id1410">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch138.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1411" id="id1411">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch138.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1412" id="id1412">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch138.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1413" id="id1413">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch138.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="1414" id="id1414">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch138.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="1415" id="id1415">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch138.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="1416" id="id1416">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch138.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="1417" id="id1417">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch138.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="1418" id="id1418">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch138.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="1419" id="id1419">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch138.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="1420" id="id1420">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch138.xhtml#id13"/>
+</navPoint>
+</navPoint>
+</navPoint>
+<navPoint playOrder="1421" id="id1421">
+<navLabel>
+<text>Otkrovenie svyatogo Ioanna Bogoslova (Apokalipsis)</text>
+</navLabel>
+<content src="ch139.xhtml"/>
+<navPoint playOrder="1422" id="id1422">
+<navLabel>
+<text>Glava 1</text>
+</navLabel>
+<content src="ch139.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1423" id="id1423">
+<navLabel>
+<text>Glava 2</text>
+</navLabel>
+<content src="ch139.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1424" id="id1424">
+<navLabel>
+<text>Glava 3</text>
+</navLabel>
+<content src="ch139.xhtml#id3"/>
+</navPoint>
+<navPoint playOrder="1425" id="id1425">
+<navLabel>
+<text>Glava 4</text>
+</navLabel>
+<content src="ch139.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="1426" id="id1426">
+<navLabel>
+<text>Glava 5</text>
+</navLabel>
+<content src="ch139.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="1427" id="id1427">
+<navLabel>
+<text>Glava 6</text>
+</navLabel>
+<content src="ch139.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="1428" id="id1428">
+<navLabel>
+<text>Glava 7</text>
+</navLabel>
+<content src="ch139.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="1429" id="id1429">
+<navLabel>
+<text>Glava 8</text>
+</navLabel>
+<content src="ch139.xhtml#id8"/>
+</navPoint>
+<navPoint playOrder="1430" id="id1430">
+<navLabel>
+<text>Glava 9</text>
+</navLabel>
+<content src="ch139.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="1431" id="id1431">
+<navLabel>
+<text>Glava 10</text>
+</navLabel>
+<content src="ch139.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="1432" id="id1432">
+<navLabel>
+<text>Glava 11</text>
+</navLabel>
+<content src="ch139.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="1433" id="id1433">
+<navLabel>
+<text>Glava 12</text>
+</navLabel>
+<content src="ch139.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="1434" id="id1434">
+<navLabel>
+<text>Glava 13</text>
+</navLabel>
+<content src="ch139.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="1435" id="id1435">
+<navLabel>
+<text>Glava 14</text>
+</navLabel>
+<content src="ch139.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="1436" id="id1436">
+<navLabel>
+<text>Glava 15</text>
+</navLabel>
+<content src="ch139.xhtml#id15"/>
+</navPoint>
+<navPoint playOrder="1437" id="id1437">
+<navLabel>
+<text>Glava 16</text>
+</navLabel>
+<content src="ch139.xhtml#id16"/>
+</navPoint>
+<navPoint playOrder="1438" id="id1438">
+<navLabel>
+<text>Glava 17</text>
+</navLabel>
+<content src="ch139.xhtml#id17"/>
+</navPoint>
+<navPoint playOrder="1439" id="id1439">
+<navLabel>
+<text>Glava 18</text>
+</navLabel>
+<content src="ch139.xhtml#id18"/>
+</navPoint>
+<navPoint playOrder="1440" id="id1440">
+<navLabel>
+<text>Glava 19</text>
+</navLabel>
+<content src="ch139.xhtml#id19"/>
+</navPoint>
+<navPoint playOrder="1441" id="id1441">
+<navLabel>
+<text>Glava 20</text>
+</navLabel>
+<content src="ch140.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="1442" id="id1442">
+<navLabel>
+<text>Glava 21</text>
+</navLabel>
+<content src="ch140.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="1443" id="id1443">
+<navLabel>
+<text>Glava 22</text>
+</navLabel>
+<content src="ch140.xhtml#id3"/>
+</navPoint>
+</navPoint>
+</navMap>
+</ncx>
